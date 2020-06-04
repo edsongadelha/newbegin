@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://tinyurl.com/yaygwy22" group-title="",[B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://tinyurl.com/ya7cg3gx" group-title="",[B][COLOR lime]#SERVIDOR 03#[/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://tinyurl.com/ya7cg3gx" group-title="",[B][COLOR lime]#SERVIDOR 01#[/B][/COLOR]
 plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=
 
