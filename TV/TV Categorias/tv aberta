@@ -1,0 +1,359 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://tinyurl.com/y78bj5rj" group-title="Filmes Séries",[B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ][/COLOR][COLOR yellow] PIKACHU [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
+
+
+
+#EXTINF:-1 tvg-ID="Globo RJ" tvg-name="Globo RJ FHD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1943.ts
+#EXTINF:-1 tvg-ID="Globo RJ" tvg-name="Globo RJ HD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1942.ts
+#EXTINF:-1 tvg-ID="Globo RJ" tvg-name="Globo RJ" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1941.ts
+#EXTINF:-1 tvg-ID="Globo SP" tvg-name="Globo RJ Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2617.ts
+#EXTINF:-1 tvg-ID="Globo RJ" tvg-name="Globo RJ Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20Rio.png" group-title="Canais Globo",Globo RJ Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2618.ts
+#EXTINF:-1 tvg-ID="Globo SP" tvg-name="Globo SP UHD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP UHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2334.ts
+#EXTINF:-1 tvg-ID="Globo SP" tvg-name="Globo SP FHD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1949.ts
+#EXTINF:-1 tvg-ID="Globo SP" tvg-name="Globo SP HD" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1948.ts
+#EXTINF:-1 tvg-ID="Globo SP" tvg-name="Globo SP" tvg-logo="http://printv.esy.es/server/Globo%20São%20Paulo.png" group-title="Canais Globo",Globo SP
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1947.ts
+#EXTINF:-1 tvg-ID="Globo SP" tvg-name="Globo SP Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2619.ts
+#EXTINF:-1 tvg-ID="Globo SP" tvg-name="Globo SP Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Canais Globo",Globo SP Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2620.ts
+#EXTINF:-1 tvg-ID="Globo Minas" tvg-name="Globo MG FHD" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1981.ts
+#EXTINF:-1 tvg-ID="Globo Minas" tvg-name="Globo MG HD" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1933.ts
+#EXTINF:-1 tvg-ID="Globo Minas" tvg-name="Globo MG" tvg-logo="http://printv.esy.es/server/Globo%20Minas.png" group-title="Canais Globo",Globo MG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1932.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo RPC Curitiba FHD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1946.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo RPC Curitiba HD²" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba HD²
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1945.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo RPC Curitiba" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Curitiba.png" group-title="Canais Globo",Globo RPC Curitiba
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1944.ts
+#EXTINF:-1 tvg-ID="Globo Brasília" tvg-name="Globo Brasilia FHD" tvg-logo="http://printv.esy.es/server/Globo%20Bras%C3%ADlia.png" group-title="Canais Globo",Globo Brasilia FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1979.ts
+#EXTINF:-1 tvg-ID="Globo Brasília" tvg-name="Globo Brasilia HD" tvg-logo="http://printv.esy.es/server/Globo%20Bras%C3%ADlia.png" group-title="Canais Globo",Globo Brasilia HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1924.ts
+#EXTINF:-1 tvg-ID="Globo Brasília" tvg-name="Globo Brasilia" tvg-logo="http://printv.esy.es/server/Globo%20Bras%C3%ADlia.png" group-title="Canais Globo",Globo Brasilia
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2034.ts
+#EXTINF:-1 tvg-ID="Globo Nordeste" tvg-name="Globo Nordeste FHD" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1982.ts
+#EXTINF:-1 tvg-ID="Globo Nordeste" tvg-name="Globo Nordeste HD" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1935.ts
+#EXTINF:-1 tvg-ID="Globo Nordeste" tvg-name="Globo Nordeste" tvg-logo="http://printv.esy.es/server/Globo%20Nordeste.png" group-title="Canais Globo",Globo Nordeste
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1934.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Verdes Mares Fortaleza" tvg-logo="http://printv.esy.es/server/TV%20Verdes%20Mares.png" group-title="Canais Globo",Globo TV Verdes Mares Fortaleza
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1962.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Vanguarda S. J. Dos Campos" tvg-logo="http://printv.esy.es/server/TV%20Vanguarda.png" group-title="Canais Globo",Globo TV Vanguarda S. J. Dos Campos
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1961.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Tv Tribuna Santos" tvg-logo="http://printv.esy.es/server/TV%20Tribuna.png" group-title="Canais Globo",Globo Tv Tribuna Santos
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1960.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Tem Sorocaba" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV Tem Sorocaba
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1957.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV TEM S. J. Rio Preto FHD" tvg-logo="" group-title="Canais Globo",Globo TV TEM S. J. Rio Preto FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1993.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Tem S. J. do Rio Preto HD" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV Tem S. J. do Rio Preto HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1958.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV TEM S. J. do Rio Preto" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV TEM S. J. do Rio Preto
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1959.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Tem Bauru" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Canais Globo",Globo TV Tem Bauru
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1956.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Sergipe HD" tvg-logo="http://printv.esy.es/server/TV%20Sergipe.png" group-title="Canais Globo",Globo TV Sergipe HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1978.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://printv.esy.es/server/TV%20Sergipe.png" group-title="Canais Globo",Globo TV Sergipe FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1977.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Sergipe" tvg-logo="http://printv.esy.es/server/TV%20Sergipe.png" group-title="Canais Globo",Globo TV Sergipe
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1976.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://printv.esy.es/server/TV%20Santa%20Cruz.png" group-title="Canais Globo",Globo TV Santa Cruz HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2031.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="http://printv.esy.es/server/TV%20Santa%20Cruz.png" group-title="Canais Globo",Globo TV Santa Cruz FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2030.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Santa Cruz" tvg-logo="http://printv.esy.es/server/TV%20Santa%20Cruz.png" group-title="Canais Globo",Globo TV Santa Cruz
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2032.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Rio Sul HD" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2028.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Rio Sul FHD" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2027.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Rio Sul" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Canais Globo",Globo TV Rio Sul
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2029.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Morena Campo Grande HD" tvg-logo="http://printv.esy.es/server/TV%20Morena.png" group-title="Canais Globo",Globo TV Morena Campo Grande HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1991.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Morena Campo Grande FHD" tvg-logo="http://printv.esy.es/server/TV%20Morena.png" group-title="Canais Globo",Globo TV Morena Campo Grande FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1990.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Morena Campo Grande" tvg-logo="http://printv.esy.es/server/TV%20Morena.png" group-title="Canais Globo",Globo TV Morena Campo Grande
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1992.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Mirante São Luis HD" tvg-logo="http://printv.esy.es/server/TV%20Mirante.png" group-title="Canais Globo",Globo TV Mirante São Luis HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1988.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Mirante São Luis FHD" tvg-logo="http://printv.esy.es/server/TV%20Mirante.png" group-title="Canais Globo",Globo TV Mirante São Luis FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1987.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Mirante São Luis" tvg-logo="http://printv.esy.es/server/TV%20Mirante.png" group-title="Canais Globo",Globo TV Mirante São Luis
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1989.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Liberal Belém" tvg-logo="http://printv.esy.es/server/TV%20Liberal.png" group-title="Canais Globo",Globo TV Liberal Belém
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1955.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="" group-title="Canais Globo",Globo TV Gazeta Vitória HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1975.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória FHD" tvg-logo="" group-title="Canais Globo",Globo TV Gazeta Vitória FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1974.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Vitória" tvg-logo="" group-title="Canais Globo",Globo TV Gazeta Vitória
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1973.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Sul.png" group-title="Canais Globo",Globo TV Gazeta Sul ES HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1998.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Sul ES FHD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Sul.png" group-title="Canais Globo",Globo TV Gazeta Sul ES FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1997.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Alagoas.png" group-title="Canais Globo",Globo TV Gazeta Alagoas HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Alagoas.png" group-title="Canais Globo",Globo TV Gazeta Alagoas FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1995.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Gazeta Alagoas" tvg-logo="http://printv.esy.es/server/TV%20Gazeta%20Alagoas.png" group-title="Canais Globo",Globo TV Gazeta Alagoas
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1994.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="Canais Globo",Globo TV Clube Teresina HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="Canais Globo",Globo TV Clube Teresina FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1971.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Clube Teresina" tvg-logo="http://printv.esy.es/server/TV%20Clube.png" group-title="Canais Globo",Globo TV Clube Teresina
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1970.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo TV Cabo Branco HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2025.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Cabo Branco FHD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo TV Cabo Branco FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2024.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Cabo Branco" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo TV Cabo Branco
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2026.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV C. América Cuiabá" tvg-logo="http://printv.esy.es/server/TV%20Centro%20América.png" group-title="Canais Globo",Globo TV C. América Cuiabá
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1954.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Bahia HD" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1953.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Bahia FHD" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1986.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Bahia" tvg-logo="http://printv.esy.es/server/TV%20Bahia.png" group-title="Canais Globo",Globo TV Bahia
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1952.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Anhanguera HD" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1951.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1985.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo TV Anhanguera" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Canais Globo",Globo TV Anhanguera
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1950.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo RPC Foz do Iguaçu HD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20Iguaçu.png" group-title="Canais Globo",Globo RPC Foz do Iguaçu HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1969.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo RPC Foz do Iguaçu FHD" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20Iguaçu.png" group-title="Canais Globo",Globo RPC Foz do Iguaçu FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1968.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo RPC Foz do Iguaçu" tvg-logo="http://printv.esy.es/server/RPC%20TV%20Foz%20do%20Iguaçu.png" group-title="Canais Globo",Globo RPC Foz do Iguaçu
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1967.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Rede AM. MANAUS" tvg-logo="http://printv.esy.es/server/Rede%20Amazônica.png" group-title="Canais Globo",Globo Rede AM. MANAUS
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1940.ts
+#EXTINF:-1 tvg-ID="Globo RBS" tvg-name="Globo RBS TV POA HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV POA HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1939.ts
+#EXTINF:-1 tvg-ID="Globo RBS" tvg-name="Globo RBS TV POA" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV POA
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1938.ts
+#EXTINF:-1 tvg-ID="Globo RBS" tvg-name="Globo RBS TV Pelotas HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Pelotas HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2022.ts
+#EXTINF:-1 tvg-ID="Globo RBS" tvg-name="Globo RBS TV Pelotas FHD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Pelotas FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2021.ts
+#EXTINF:-1 tvg-ID="Globo RBS" tvg-name="Globo RBS TV Pelotas" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Pelotas
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2023.ts
+#EXTINF:-1 tvg-ID="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Caxias do Sul HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2016.ts
+#EXTINF:-1 tvg-ID="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul FHD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Caxias do Sul FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2015.ts
+#EXTINF:-1 tvg-ID="Globo RBS" tvg-name="Globo RBS TV Caxias do Sul" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS TV Caxias do Sul
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2017.ts
+#EXTINF:-1 tvg-ID="Globo RBS" tvg-name="Globo RBS POA FHD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Canais Globo",Globo RBS POA FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1984.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Joinville HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2019.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Joinville FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2018.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Joinville" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Joinville
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2020.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Florianópolis HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Florianópolis HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1937.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Florianópolis FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Florianópolis FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1983.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Florianópolis" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Florianópolis
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1936.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Chapecó HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Chapecó HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1965.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Chapecó FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Chapecó FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1964.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Chapecó" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Chapecó
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1966.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Blumenau HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Blumenau HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2013.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Blumenau FHD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Blumenau FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2012.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo NSC TV Blumenal" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Canais Globo",Globo NSC TV Blumenal
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2014.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Inter TV Serra Mar HD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Serra Mar HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2010.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Inter TV Serra Mar FHD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Serra Mar FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2009.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Inter TV Serra Mar" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Serra Mar
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2011.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo INTER TV Natal" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo INTER TV Natal
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1931.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Inter TV Grande Minas HD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Grande Minas HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2007.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Inter TV Grande Minas FHD" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Grande Minas FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2006.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Inter TV Grande Minas" tvg-logo="http://printv.esy.es/server/Inter%20TV.png" group-title="Canais Globo",Globo Inter TV Grande Minas
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2008.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Inter TV dos Vales HD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV dos Vales HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2004.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Inter TV dos Vales FHD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV dos Vales FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2003.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Inter TV dos Vales" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV dos Vales
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2005.ts
+#EXTINF:-1 tvg-ID="Globo RJ" tvg-name="Globo Inter TV Alto Litoral HD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV Alto Litoral HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2001.ts
+#EXTINF:-1 tvg-ID="Globo RJ" tvg-name="Globo Inter TV Alto Litoral FHD" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV Alto Litoral FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2000.ts
+#EXTINF:-1 tvg-ID="Globo RJ" tvg-name="Globo Inter TV Alto Litoral" tvg-logo="http://printv.esy.es/server/Globo.png" group-title="Canais Globo",Globo Inter TV Alto Litoral
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2002.ts
+#EXTINF:-1 tvg-ID="EPTV Campinas" tvg-name="Globo EPTV São Carlos" tvg-logo="http://printv.esy.es/server/EPTV.png" group-title="Canais Globo",Globo EPTV São Carlos
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1930.ts
+#EXTINF:-1 tvg-ID="Globo EPTV Ribeirao Preto" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://printv.esy.es/server/EPTV%20Ribeirão%20Preto.png" group-title="Canais Globo",Globo EPTV Ribeirão Preto HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1928.ts
+#EXTINF:-1 tvg-ID="Globo EPTV Ribeirao Preto" tvg-name="Globo EPTV Ribeirão Preto FHD" tvg-logo="http://printv.esy.es/server/EPTV%20Ribeirão%20Preto.png" group-title="Canais Globo",Globo EPTV Ribeirão Preto FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1999.ts
+#EXTINF:-1 tvg-ID="Globo EPTV Ribeirao Preto" tvg-name="Globo EPTV Ribeirão Preto" tvg-logo="http://printv.esy.es/server/EPTV%20Ribeirão%20Preto.png" group-title="Canais Globo",Globo EPTV Ribeirão Preto
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1929.ts
+#EXTINF:-1 tvg-ID="EPTV Campinas" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://printv.esy.es/server/EPTV%20Campinas.png" group-title="Canais Globo",Globo EPTV Campinas HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1927.ts
+#EXTINF:-1 tvg-ID="EPTV Campinas" tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://printv.esy.es/server/EPTV%20Campinas.png" group-title="Canais Globo",Globo EPTV Campinas FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1980.ts
+#EXTINF:-1 tvg-ID="EPTV Campinas" tvg-name="Globo EPTV Campinas" tvg-logo="http://printv.esy.es/server/EPTV%20Campinas.png" group-title="Canais Globo",Globo EPTV Campinas
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1926.ts
+#EXTINF:-1 tvg-ID="EPTV Campinas" tvg-name="Globo EPTV Araraquara" tvg-logo="http://printv.esy.es/server/EPTV.png" group-title="Canais Globo",Globo EPTV Araraquara
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1925.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Portugal HD" tvg-logo="http://printv.esy.es/server/Globo%20Portugal.png" group-title="Canais Globo",Globo Portugal HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2434.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Portugal" tvg-logo="http://printv.esy.es/server/Globo%20Portugal.png" group-title="Canais Globo",Globo Portugal
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2435.ts
+#EXTINF:-1 tvg-ID="Globo Internacional" tvg-name="Globo Internacional" tvg-logo="http://printv.esy.es/server/Globo%20Internacional.png" group-title="Canais Globo",Globo Internacional
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1963.ts
+#EXTINF:-1 tvg-ID="GLOBONOW" tvg-name="Globo Now HD" tvg-logo="http://printv.esy.es/server/Globo%20Now.png" group-title="Canais Globo",Globo Now HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2622.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Globo Now" tvg-logo="http://printv.esy.es/server/Globo%20Now.png" group-title="Canais Globo",Globo Now
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2433.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A Fazenda 11 HD" tvg-logo="" group-title="Canais Record TV",A Fazenda 11 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1404.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A Fazenda 11" tvg-logo="" group-title="Canais Record TV",A Fazenda 11
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2305.ts
+#EXTINF:-1 tvg-ID="Record SP" tvg-name="RecordTV SP FHD" tvg-logo="http://printv.esy.es/server/Record%20HD.png" group-title="Canais Record TV",RecordTV SP FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2371.ts
+#EXTINF:-1 tvg-ID="Record SP" tvg-name="RecordTV SP HD" tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais Record TV",RecordTV SP HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2206.ts
+#EXTINF:-1 tvg-ID="Record SP" tvg-name="RecordTV SP" tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais Record TV",RecordTV SP
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1899.ts
+#EXTINF:-1 tvg-ID="Record SP" tvg-name="RecordTV SP HD2" tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais Record TV",RecordTV SP HD2
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2203.ts
+#EXTINF:-1 tvg-ID="Record SP" tvg-name="RecordTV SP2" tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais Record TV",RecordTV SP2
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Record TV SP Alternativo HD" tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais Record TV",Record TV SP Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1278.ts
+#EXTINF:-1 tvg-ID="Record SP" tvg-name="Record TV Alternativo" tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais Record TV",Record TV Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1165.ts
+#EXTINF:-1 tvg-ID="Record RJ" tvg-name="RecordTV RJ FHD" tvg-logo="http://printv.esy.es/server/Record%20Rio.png" group-title="Canais Record TV",RecordTV RJ FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1912.ts
+#EXTINF:-1 tvg-ID="Record RJ" tvg-name="RecordTV RJ HD" tvg-logo="http://printv.esy.es/server/Record%20Rio.png" group-title="Canais Record TV",RecordTV RJ HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2274.ts
+#EXTINF:-1 tvg-ID="Record RJ" tvg-name="RecordTV RJ" tvg-logo="http://printv.esy.es/server/Record%20Rio.png" group-title="Canais Record TV",RecordTV RJ
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2275.ts
+#EXTINF:-1 tvg-ID="Record RS" tvg-name="RecordTV RS HD" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais Record TV",RecordTV RS HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2285.ts
+#EXTINF:-1 tvg-ID="Record RS" tvg-name="RecordTV RS" tvg-logo="http://printv.esy.es/server/Record%20RS.png" group-title="Canais Record TV",RecordTV RS
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2286.ts
+#EXTINF:-1 tvg-ID="Record MG" tvg-name="RecordTV MG HD" tvg-logo="http://printv.esy.es/server/Record%20Minas.png" group-title="Canais Record TV",RecordTV MG HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2276.ts
+#EXTINF:-1 tvg-ID="Record MG" tvg-name="RecordTV MG" tvg-logo="http://printv.esy.es/server/Record%20Minas.png" group-title="Canais Record TV",RecordTV MG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2277.ts
+#EXTINF:-1 tvg-ID="Record DF" tvg-name="RecordTV DF HD" tvg-logo="http://printv.esy.es/server/Record%20Bras%C3%ADlia.png" group-title="Canais Record TV",RecordTV DF HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2283.ts
+#EXTINF:-1 tvg-ID="Record DF" tvg-name="RecordTV DF" tvg-logo="http://printv.esy.es/server/Record%20Bras%C3%ADlia.png" group-title="Canais Record TV",RecordTV DF
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2284.ts
+#EXTINF:-1 tvg-ID="Record BA" tvg-name="RecordTV BA HD" tvg-logo="http://printv.esy.es/server/Record%20Itapoan.png" group-title="Canais Record TV",RecordTV BA HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2281.ts
+#EXTINF:-1 tvg-ID="Record BA" tvg-name="RecordTV BA" tvg-logo="http://printv.esy.es/server/Record%20Itapoan.png" group-title="Canais Record TV",RecordTV BA
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2282.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Record Portugal HD" tvg-logo="http://printv.esy.es/server/Record%20HD.png" group-title="Canais Record TV",Record Portugal HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2437.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Record Portugal" tvg-logo="http://printv.esy.es/server/Record.png" group-title="Canais Record TV",Record Portugal
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2436.ts
+#EXTINF:-1 tvg-ID="SBT" tvg-name="SBT FHD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais Abertos",SBT FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1900.ts
+#EXTINF:-1 tvg-ID="SBT" tvg-name="SBT HD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais Abertos",SBT HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2212.ts
+#EXTINF:-1 tvg-ID="SBT" tvg-name="SBT" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2211.ts
+#EXTINF:-1 tvg-ID="SBT" tvg-name="SBT Alternativo HD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Canais Abertos",SBT Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1324.ts
+#EXTINF:-1 tvg-ID="SBT" tvg-name="SBT Alternativo" tvg-logo="http://printv.esy.es/server/SBT.png" group-title="Canais Abertos",SBT Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1218.ts
+#EXTINF:-1 tvg-ID="SBT SP Interior" tvg-name="SBT SP Interior" tvg-logo="http://printv.esy.es/server/SBT%20Interior.png" group-title="Canais Abertos",SBT SP Interior
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2213.ts
+#EXTINF:-1 tvg-ID="Band" tvg-name="Band SP FHD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band SP FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1878.ts
+#EXTINF:-1 tvg-ID="Band" tvg-name="Band SP HD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band SP HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2056.ts
+#EXTINF:-1 tvg-ID="Band" tvg-name="Band SP" tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band SP
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2055.ts
+#EXTINF:-1 tvg-ID="Band" tvg-name="Band Alternativo HD" tvg-logo="http://printv.esy.es/server/Band%20HD.png" group-title="Canais Abertos",Band Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1268.ts
+#EXTINF:-1 tvg-ID="Band" tvg-name="Band TV Alternativo SD" tvg-logo="http://printv.esy.es/server/Band.png" group-title="Canais Abertos",Band TV Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1179.ts
+#EXTINF:-1 tvg-ID="Rede TV" tvg-name="Rede TV FHD" tvg-logo="http://printv.esy.es/server/Rede%20TV%21%20HD.png" group-title="Canais Abertos",Rede TV FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1910.ts
+#EXTINF:-1 tvg-ID="Rede TV" tvg-name="Rede TV! HD" tvg-logo="http://printv.esy.es/server/Rede%20TV%21%20HD.png" group-title="Canais Abertos",Rede TV! HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2209.ts
+#EXTINF:-1 tvg-ID="Rede TV" tvg-name="Rede TV!" tvg-logo="http://printv.esy.es/server/Rede%20TV%21.png" group-title="Canais Abertos",Rede TV!
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2208.ts
+#EXTINF:-1 tvg-ID="Rede TV" tvg-name="Rede TV Alternativo HD" tvg-logo="http://printv.esy.es/server/Rede%20TV%21%20HD.png" group-title="Canais Abertos",Rede TV Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1323.ts
+#EXTINF:-1 tvg-ID="Rede TV" tvg-name="Rede TV Alternativo" tvg-logo="http://printv.esy.es/server/Rede%20TV%21.png" group-title="Canais Abertos",Rede TV Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1168.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Diário Fortaleza FHD" tvg-logo="http://printv.esy.es/server/TV%20Diário.png" group-title="Canais Abertos",Tv Diário Fortaleza FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1914.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Diario Fortaleza HD" tvg-logo="http://printv.esy.es/server/TV%20Diário.png" group-title="Canais Abertos",TV Diario Fortaleza HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2287.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Diario Fortaleza" tvg-logo="http://printv.esy.es/server/TV%20Diário.png" group-title="Canais Abertos",TV Diario Fortaleza
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2288.ts
+#EXTINF:-1 tvg-ID="TV Cultura" tvg-name="Tv Cultura FHD" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Canais Abertos",Tv Cultura FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1909.ts
+#EXTINF:-1 tvg-ID="TV Cultura" tvg-name="TV Cultura HD" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Canais Abertos",TV Cultura HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2272.ts
+#EXTINF:-1 tvg-ID="TV Cultura" tvg-name="TV Cultura" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Canais Abertos",TV Cultura
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2271.ts
+#EXTINF:-1 tvg-ID="TV Cultura" tvg-name="TV Cultura Alternativo" tvg-logo="http://printv.esy.es/server/Cultura.png" group-title="Canais Abertos",TV Cultura Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1125.ts
+#EXTINF:-1 tvg-ID="Canal Brasil" tvg-name="Canal Brasil FHD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Canais Abertos",Canal Brasil FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1908.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Brasil Alternativo HD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Canais Abertos",Canal Brasil Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1331.ts
+#EXTINF:-1 tvg-ID="Canal Brasil" tvg-name="Canal Brasil Alternativo SD" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Canais Abertos",Canal Brasil Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1123.ts
+#EXTINF:-1 tvg-ID="Futura" tvg-name="Futura FHD" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Canais Abertos",Futura FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1834.ts
+#EXTINF:-1 tvg-ID="Futura" tvg-name="Futura HD" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Canais Abertos",Futura HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2126.ts
+#EXTINF:-1 tvg-ID="Futura" tvg-name="Futura" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Canais Abertos",Futura
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2125.ts
+#EXTINF:-1 tvg-ID="Futura" tvg-name="Futura Alternativo SD" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Canais Abertos",Futura Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1196.ts
+#EXTINF:-1 tvg-ID="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://printv.esy.es/server/Terra%20Viva.png" group-title="Canais Abertos",Terra Viva
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2238.ts
+#EXTINF:-1 tvg-ID="Canal Rural" tvg-name="Canal Rural Alternativo" tvg-logo="http://printv.esy.es/server/Canal%20Rural.png" group-title="Canais Abertos",Canal Rural Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1183.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Senado" tvg-logo="http://printv.esy.es/server/TV%20Senado.png" group-title="Canais Abertos",TV Senado
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2246.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Justiça" tvg-logo="http://printv.esy.es/server/TV%20Justiça.png" group-title="Canais Abertos",TV Justiça
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2247.ts
+#EXTINF:-1 tvg-ID="TV Escola" tvg-name="TV Escola" tvg-logo="http://printv.esy.es/server/TV%20Escola.png" group-title="Canais Abertos",TV Escola
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2251.ts
+#EXTINF:-1 tvg-ID="TV Gazeta" tvg-name="TV Gazeta SP HD" tvg-logo="http://printv.esy.es/server/Gazeta.png" group-title="Canais Abertos",TV Gazeta SP HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2252.ts

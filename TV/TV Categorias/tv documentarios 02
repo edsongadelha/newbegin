@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://tinyurl.com/y78bj5rj" group-title="Filmes Séries",[B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ][/COLOR][COLOR yellow] PIKACHU [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
+
+
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Animal Planet H265" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Canais H265",Animal Planet H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6535.ts
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6578.ts
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Animal Planet FHD" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Documentarios",Animal Planet FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1808.ts
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Documentarios",Animal Planet HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2050.ts
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://printv.esy.es/server/Animal%20Planet.png" group-title="Documentarios",Animal Planet
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2049.ts
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Animal Planet Alternativo HD" tvg-logo="http://printv.esy.es/server/Animal%20Planet%20HD.png" group-title="Documentarios",Animal Planet Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1288.ts
+#EXTINF:-1 tvg-ID="Animal Planet" tvg-name="Animal Planet Alternativo" tvg-logo="http://printv.esy.es/server/Animal%20Planet.png" group-title="Documentarios",Animal Planet Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1177.ts
+#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="Discovery Channel FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Documentarios",Discovery Channel FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1881.ts
+#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Documentarios",Discovery Channel HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2082.ts
+#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://printv.esy.es/server/Discovery%20Channel.png" group-title="Documentarios",Discovery Channel
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2081.ts
+#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="Discovery Channel Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Channel%20HD.png" group-title="Documentarios",Discovery Channel Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1328.ts
+#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="Discovery Channel Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Channel.png" group-title="Documentarios",Discovery Channel Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1126.ts
+#EXTINF:-1 tvg-ID="Discovery Turbo" tvg-name="Discovery Turbo FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Documentarios",Discovery Turbo FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1824.ts
+#EXTINF:-1 tvg-ID="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Documentarios",Discovery Turbo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2093.ts
+#EXTINF:-1 tvg-ID="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo.png" group-title="Documentarios",Discovery Turbo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2092.ts
+#EXTINF:-1 tvg-ID="Discovery Turbo" tvg-name="Discovery Turbo Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo%20HD.png" group-title="Documentarios",Discovery Turbo Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1292.ts
+#EXTINF:-1 tvg-ID="Discovery Turbo" tvg-name="Discovery Turbo Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Turbo.png" group-title="Documentarios",Discovery Turbo Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1129.ts
+#EXTINF:-1 tvg-ID="Discovery Home & Health" tvg-name="Discovery Home&Health FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1820.ts
+#EXTINF:-1 tvg-ID="Discovery Home & Health" tvg-name="Discovery Home&Health HD" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2086.ts
+#EXTINF:-1 tvg-ID="Discovery Home & Health" tvg-name="Discovery Home&Health" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home&Health
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2085.ts
+#EXTINF:-1 tvg-ID="Discovery Home & Health" tvg-name="Discovery Home & Health Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="Documentarios",Discovery Home & Health Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1127.ts
+#EXTINF:-1 tvg-ID="Discovery Civilization" tvg-name="Discovery Civilization FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Civilization.png" group-title="Documentarios",Discovery Civilization FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1819.ts
+#EXTINF:-1 tvg-ID="Discovery Civilization" tvg-name="Discovery Civilization HD" tvg-logo="http://printv.esy.es/server/Discovery%20Civilization.png" group-title="Documentarios",Discovery Civilization HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2084.ts
+#EXTINF:-1 tvg-ID="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://printv.esy.es/server/Discovery%20Civilization.png" group-title="Documentarios",Discovery Civilization
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2083.ts
+#EXTINF:-1 tvg-ID="Discovery Civilization" tvg-name="Discovery Civilization Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Civilization.png" group-title="Documentarios",Discovery Civilization Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1333.ts
+#EXTINF:-1 tvg-ID="Investigação Discovery" tvg-name="Investigation Discovery FHD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Documentarios",Investigation Discovery FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1843.ts
+#EXTINF:-1 tvg-ID="Investigação Discovery" tvg-name="Investigation Discovery HD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Documentarios",Investigation Discovery HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2152.ts
+#EXTINF:-1 tvg-ID="Investigação Discovery" tvg-name="Investigation Discovery" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery.png" group-title="Documentarios",Investigation Discovery
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2151.ts
+#EXTINF:-1 tvg-ID="Investigação Discovery" tvg-name="Investigação Discovery Alternativo" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery.png" group-title="Documentarios",Investigação Discovery Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1200.ts
+#EXTINF:-1 tvg-ID="Investigação Discovery" tvg-name="Investigation Discovery Alternativo HD" tvg-logo="http://printv.esy.es/server/Investigation%20Discovery%20HD.png" group-title="Documentarios",Investigation Discovery Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1320.ts
+#EXTINF:-1 tvg-ID="Discovery World" tvg-name="Discovery World FHD" tvg-logo="http://printv.esy.es/server/Discovery%20World%20HD.png" group-title="Documentarios",Discovery World FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1825.ts
+#EXTINF:-1 tvg-ID="Discovery World" tvg-name="Discovery World" tvg-logo="http://printv.esy.es/server/Discovery%20World.png" group-title="Documentarios",Discovery World
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2094.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery World Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20World%20HD.png" group-title="Documentarios",Discovery World Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1309.ts
+#EXTINF:-1 tvg-ID="Discovery Theater" tvg-name="Discovery Theater FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Documentarios",Discovery Theater FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1823.ts
+#EXTINF:-1 tvg-ID="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Documentarios",Discovery Theater HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2091.ts
+#EXTINF:-1 tvg-ID="Discovery Theater" tvg-name="Discovery Theater" tvg-logo="http://printv.esy.es/server/Discovery%20Theater.png" group-title="Documentarios",Discovery Theater
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2090.ts
+#EXTINF:-1 tvg-ID="Discovery Theater" tvg-name="Discovery Theater Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Theater%20HD.png" group-title="Documentarios",Discovery Theater Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1286.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Science%20HD.png" group-title="Documentarios",Discovery Science FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1822.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science" tvg-logo="http://printv.esy.es/server/Discovery%20Science.png" group-title="Documentarios",Discovery Science
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2089.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Science Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Science%20HD.png" group-title="Documentarios",Discovery Science Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1335.ts
+#EXTINF:-1 tvg-ID="History" tvg-name="History FHD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Documentarios",History FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1842.ts
+#EXTINF:-1 tvg-ID="History" tvg-name="History HD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Documentarios",History HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2150.ts
+#EXTINF:-1 tvg-ID="History" tvg-name="History" tvg-logo="http://printv.esy.es/server/The%20History%20Channel.png" group-title="Documentarios",History
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2149.ts
+#EXTINF:-1 tvg-ID="History" tvg-name="History Alternativo HD" tvg-logo="http://printv.esy.es/server/The%20History%20Channel%20HD.png" group-title="Documentarios",History Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1272.ts
+#EXTINF:-1 tvg-ID="History" tvg-name="History Alternativo" tvg-logo="http://printv.esy.es/server/The%20History%20Channel.png" group-title="Documentarios",History Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1145.ts
+#EXTINF:-1 tvg-ID="H2" tvg-name="H2 FHD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Documentarios",H2 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1838.ts
+#EXTINF:-1 tvg-ID="H2" tvg-name="H2 HD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Documentarios",H2 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2138.ts
+#EXTINF:-1 tvg-ID="H2" tvg-name="H2" tvg-logo="http://printv.esy.es/server/H2.png" group-title="Documentarios",H2
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2137.ts
+#EXTINF:-1 tvg-ID="H2" tvg-name="H2 Alternativo HD" tvg-logo="http://printv.esy.es/server/H2%20HD.png" group-title="Documentarios",H2 Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1316.ts
+#EXTINF:-1 tvg-ID="H2" tvg-name="H2 Alternativo" tvg-logo="http://printv.esy.es/server/H2.png" group-title="Documentarios",H2 Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1144.ts
+#EXTINF:-1 tvg-ID="NatGeo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild.png" group-title="Documentarios",Nat Geo Wild
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2176.ts
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="Nat Geo FHD" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Documentarios",Nat Geo FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1853.ts
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="Nat Geo HD" tvg-logo="http://printv.esy.es/server/National%20Geographic%20Channel%20HD.png" group-title="Documentarios",Nat Geo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2172.ts
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="Nat Geo" tvg-logo="http://printv.esy.es/server/National%20Geographic.png" group-title="Documentarios",Nat Geo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2171.ts
+#EXTINF:-1 tvg-ID="NatGeo Wild" tvg-name="Nat Geo Alternativo HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",Nat Geo Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1298.ts
+#EXTINF:-1 tvg-ID="National Geographic" tvg-name="Nat Geo Alternativo" tvg-logo="http://printv.esy.es/server/National%20Geographic.png" group-title="Documentarios",Nat Geo Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1207.ts
+#EXTINF:-1 tvg-ID="NatGeo Wild" tvg-name="Nat Geo Wild FHD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",Nat Geo Wild FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1855.ts
+#EXTINF:-1 tvg-ID="NatGeo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",Nat Geo Wild HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2175.ts
+#EXTINF:-1 tvg-ID="NatGeo Wild" tvg-name="NatGeo Wild Alternativo HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild%20HD.png" group-title="Documentarios",NatGeo Wild Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1299.ts
+#EXTINF:-1 tvg-ID="NatGeo Wild" tvg-name="Nat Geo Wild Alternativo" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Wild.png" group-title="Documentarios",Nat Geo Wild Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Smithsonian Channel FHD" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1915.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Smithsonian Channel HD" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2289.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Smithsonian Channel" tvg-logo="http://printv.esy.es/server/Smithsonian%20Channel.png" group-title="Documentarios",Smithsonian Channel
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2290.ts
+#EXTINF:-1 tvg-ID="Rede Vida" tvg-name="Rede Vida FHD" tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="Religiosos",Rede Vida FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1911.ts
+#EXTINF:-1 tvg-ID="Rede Vida" tvg-name="Rede Vida HD" tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="Religiosos",Rede Vida HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2273.ts

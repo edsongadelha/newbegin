@@ -1,0 +1,184 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://tinyurl.com/y78bj5rj" group-title="Filmes Séries",[B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ][/COLOR][COLOR yellow] PIKACHU [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
+
+
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang H265" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Canais H265",Boomerang H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6613.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Cartoon Network FHD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Network FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1815.ts
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Netowork HD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Netowork HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2072.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Cartoon Netowork" tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="Infantil",Cartoon Netowork
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2071.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Cartoon Network Alternativo HD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Network Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1332.ts
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Network Alternativo" tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="Infantil",Cartoon Network Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1124.ts
+#EXTINF:-1 tvg-ID="Discovery Kids" tvg-name="Discovery Kids FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1821.ts
+#EXTINF:-1 tvg-ID="Discovery Kids" tvg-name="Discovery Kids FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1821.ts
+#EXTINF:-1 tvg-ID="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2088.ts
+#EXTINF:-1 tvg-ID="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="Infantil",Discovery Kids
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2087.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Kids Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1334.ts
+#EXTINF:-1 tvg-ID="Discovery Kids" tvg-name="Discovery Kids Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="Infantil",Discovery Kids Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1128.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel H265" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Canais H265",Disney Channel H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6589.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel FHD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1882.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2096.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="Infantil",Disney Channel
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2095.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel Alternativo HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1336.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel Alternativo" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="Infantil",Disney Channel Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1189.ts
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="Disney Jr FHD" tvg-logo="http://printv.esy.es/server/Disney%20Júnior%20HD.png" group-title="Infantil",Disney Jr FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1876.ts
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="Disney Jr HD" tvg-logo="http://printv.esy.es/server/Disney%20Júnior%20HD.png" group-title="Infantil",Disney Jr HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2268.ts
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="Disney Jr" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Infantil",Disney Jr
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2097.ts
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="Disney Jr Alternativo" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Infantil",Disney Jr Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" group-title="Infantil",Disney XD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2098.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD Alternativo SD" tvg-logo="" group-title="Infantil",Disney XD Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1191.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang  FHD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Infantil",Boomerang  FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1813.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Infantil",Boomerang HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2065.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon FHD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1857.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon FHD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1857.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2181.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2180.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon Alternativo HD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1345.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon Alternativo" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1153.ts
+EXTINF:-1 tvg-ID="Boomerang" tvg-name="Cartoon Network FHD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Network FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1815.ts
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Netowork HD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Netowork HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2072.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Cartoon Netowork" tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="Infantil",Cartoon Netowork
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2071.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Cartoon Network Alternativo HD" tvg-logo="http://printv.esy.es/server/Cartoon%20Network%20HD.png" group-title="Infantil",Cartoon Network Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1332.ts
+#EXTINF:-1 tvg-ID="Cartoon Network" tvg-name="Cartoon Network Alternativo" tvg-logo="http://printv.esy.es/server/Cartoon%20Network.png" group-title="Infantil",Cartoon Network Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1124.ts
+#EXTINF:-1 tvg-ID="Discovery Kids" tvg-name="Discovery Kids FHD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1821.ts
+#EXTINF:-1 tvg-ID="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2088.ts
+#EXTINF:-1 tvg-ID="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="Infantil",Discovery Kids
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2087.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Kids Alternativo HD" tvg-logo="http://printv.esy.es/server/Discovery%20Kids%20HD.png" group-title="Infantil",Discovery Kids Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1334.ts
+#EXTINF:-1 tvg-ID="Discovery Kids" tvg-name="Discovery Kids Alternativo" tvg-logo="http://printv.esy.es/server/Discovery%20Kids.png" group-title="Infantil",Discovery Kids Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1128.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel FHD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1882.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2096.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="Infantil",Disney Channel
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2095.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel Alternativo HD" tvg-logo="http://printv.esy.es/server/Disney%20Channel%20HD.png" group-title="Infantil",Disney Channel Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1336.ts
+#EXTINF:-1 tvg-ID="Disney Channel" tvg-name="Disney Channel Alternativo" tvg-logo="http://printv.esy.es/server/Disney%20Channel.png" group-title="Infantil",Disney Channel Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1189.ts
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="Disney Jr FHD" tvg-logo="http://printv.esy.es/server/Disney%20Júnior%20HD.png" group-title="Infantil",Disney Jr FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1876.ts
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="Disney Jr HD" tvg-logo="http://printv.esy.es/server/Disney%20Júnior%20HD.png" group-title="Infantil",Disney Jr HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2268.ts
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="Disney Jr" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Infantil",Disney Jr
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2097.ts
+#EXTINF:-1 tvg-ID="Disney Junior" tvg-name="Disney Jr Alternativo" tvg-logo="http://printv.esy.es/server/Disney%20Jr..png" group-title="Infantil",Disney Jr Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" group-title="Infantil",Disney XD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2098.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD Alternativo SD" tvg-logo="" group-title="Infantil",Disney XD Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1191.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang  FHD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Infantil",Boomerang  FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1813.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Infantil",Boomerang HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2065.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="Infantil",Boomerang
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2064.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang Alternativo HD" tvg-logo="http://printv.esy.es/server/Boomerang%20HD.png" group-title="Infantil",Boomerang Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1330.ts
+#EXTINF:-1 tvg-ID="Boomerang" tvg-name="Boomerang Alternativo" tvg-logo="http://printv.esy.es/server/Boomerang.png" group-title="Infantil",Boomerang Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1182.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon FHD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1857.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2181.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2180.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon Alternativo HD" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1345.ts
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="Nickelodeon Alternativo" tvg-logo="http://printv.esy.es/server/Nickelodeon.png" group-title="Infantil",Nickelodeon Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1153.ts
+#EXTINF:-1 tvg-ID="Nick Jr" tvg-name="Nick Jr FHD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Infantil",Nick Jr FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1856.ts
+#EXTINF:-1 tvg-ID="Nick Jr" tvg-name="Nick Jr HD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Infantil",Nick Jr HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2179.ts
+#EXTINF:-1 tvg-ID="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://printv.esy.es/server/Nick%20Jr..png" group-title="Infantil",Nick Jr
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2178.ts
+#EXTINF:-1 tvg-ID="Nick Jr" tvg-name="Nick JR Alternativo HD" tvg-logo="http://printv.esy.es/server/Nick%20Jr.%20HD.png" group-title="Infantil",Nick JR Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1346.ts
+#EXTINF:-1 tvg-ID="Nick Jr" tvg-name="Nick Jr Alternativo" tvg-logo="http://printv.esy.es/server/Nick%20Jr..png" group-title="Infantil",Nick Jr Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1211.ts
+#EXTINF:-1 tvg-ID="Gloobinho" tvg-name="Gloobinho FHD" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="Infantil",Gloobinho FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1836.ts
+#EXTINF:-1 tvg-ID="Gloobinho" tvg-name="Gloobinho HD" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="Infantil",Gloobinho HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2133.ts
+#EXTINF:-1 tvg-ID="Gloobinho" tvg-name="Gloobinho" tvg-logo="http://printv.esy.es/server/Gloobinho.png" group-title="Infantil",Gloobinho
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2134.ts
+#EXTINF:-1 tvg-ID="Gloob" tvg-name="Gloob FHD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantil",Gloob FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1889.ts
+#EXTINF:-1 tvg-ID="Gloob" tvg-name="Gloob HD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantil",Gloob HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2132.ts
+#EXTINF:-1 tvg-ID="Gloob" tvg-name="Gloob" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantil",Gloob
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2131.ts
+#EXTINF:-1 tvg-ID="Gloob" tvg-name="Gloob Alternativo HD" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantil",Gloob Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1342.ts
+#EXTINF:-1 tvg-ID="Gloob" tvg-name="Gloob Alternativo" tvg-logo="http://printv.esy.es/server/Gloob.png" group-title="Infantil",Gloob Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1139.ts
+#EXTINF:-1 tvg-ID="NatGeo Kids" tvg-name="Nat Geo Kids FHD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantil",Nat Geo Kids FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1854.ts
+#EXTINF:-1 tvg-ID="NatGeo Kids" tvg-name="Nat Geo Kids HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantil",Nat Geo Kids HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2174.ts
+#EXTINF:-1 tvg-ID="NatGeo Kids" tvg-name="Nat Geo Kids" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantil",Nat Geo Kids
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2173.ts
+#EXTINF:-1 tvg-ID="NatGeo Kids" tvg-name="Nat Geo Kids Alternativo HD" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantil",Nat Geo Kids Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1344.ts
+#EXTINF:-1 tvg-ID="NatGeo Kids" tvg-name="Nat Geo Kids Alternativo" tvg-logo="http://printv.esy.es/server/Nat%20Geo%20Kids.png" group-title="Infantil",Nat Geo Kids Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1208.ts
+#EXTINF:-1 tvg-ID="TV Rá-Tim-Bum" tvg-name="TV Ra Tim Bum FHD" tvg-logo="http://printv.esy.es/server/TV%20Rá%20Tim%20Bum.png" group-title="Infantil",TV Ra Tim Bum FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1871.ts
+#EXTINF:-1 tvg-ID="TV Rá-Tim-Bum" tvg-name="TV Ra Tim Bum HD" tvg-logo="http://printv.esy.es/server/TV%20Rá%20Tim%20Bum.png" group-title="Infantil",TV Ra Tim Bum HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2254.ts
+#EXTINF:-1 tvg-ID="TV Rá-Tim-Bum" tvg-name="TV Ra Tim Bum" tvg-logo="http://printv.esy.es/server/TV%20Rá%20Tim%20Bum.png" group-title="Infantil",TV Ra Tim Bum
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2253.ts
+#EXTINF:-1 tvg-ID="TV Rá-Tim-Bum" tvg-name="TV Ra Tim Bum Alternativo" tvg-logo="http://printv.esy.es/server/TV%20Rá%20Tim%20Bum.png" group-title="Infantil",TV Ra Tim Bum Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1215.ts
+#EXTINF:-1 tvg-ID="Tooncast" tvg-name="Tooncast" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="Infantil",Tooncast
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2245.ts
+#EXTINF:-1 tvg-ID="Tooncast" tvg-name="Tooncast Alternativo" tvg-logo="http://printv.esy.es/server/Tooncast.png" group-title="Infantil",Tooncast Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1236.ts
+#EXTINF:-1 tvg-ID="BabyTV" tvg-name="Baby TV Alternativo" tvg-logo="http://printv.esy.es/server/Baby%20TV.png" group-title="Infantil",Baby TV Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zoomoo" tvg-logo="http://printv.esy.es/server/ZooMoo.png" group-title="Infantil",Zoomoo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2293.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ZooMoo Alternativo SD" tvg-logo="http://printv.esy.es/server/ZooMoo.png" group-title="Infantil",ZooMoo Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2552.ts

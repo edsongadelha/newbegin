@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://tinyurl.com/y78bj5rj" group-title="Filmes Séries",[B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ][/COLOR][COLOR yellow] PIKACHU [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
+
+
+#EXTINF:-1 tvg-ID="Globo News" tvg-name="Globo News FHD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1888.ts
+#EXTINF:-1 tvg-ID="Globo News" tvg-name="Globo News HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2130.ts
+#EXTINF:-1 tvg-ID="Globo News" tvg-name="Globo News" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="Noticias",Globo News
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2129.ts
+#EXTINF:-1 tvg-ID="Globo News" tvg-name="Globo News Alternativo HD" tvg-logo="http://printv.esy.es/server/Globo%20News%20HD.png" group-title="Noticias",Globo News Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1341.ts
+#EXTINF:-1 tvg-ID="Globo News" tvg-name="Globo News Alternativo" tvg-logo="http://printv.esy.es/server/Globo%20News.png" group-title="Noticias",Globo News Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1138.ts
+#EXTINF:-1 tvg-ID="Band News" tvg-name="Band News FHD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Noticias",Band News FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1811.ts
+#EXTINF:-1 tvg-ID="Band News" tvg-name="Band News HD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Noticias",Band News HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2058.ts
+#EXTINF:-1 tvg-ID="Band News" tvg-name="Band News" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="Noticias",Band News
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2057.ts
+#EXTINF:-1 tvg-ID="Band News" tvg-name="Band News Alternativo HD" tvg-logo="http://printv.esy.es/server/Band%20News%20HD.png" group-title="Noticias",Band News Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1476.ts
+#EXTINF:-1 tvg-ID="Band News" tvg-name="Band News Alternativo" tvg-logo="http://printv.esy.es/server/Band%20News.png" group-title="Noticias",Band News Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1121.ts
+#EXTINF:-1 tvg-ID="Record News" tvg-name="Record News FHD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1861.ts
+#EXTINF:-1 tvg-ID="Record News" tvg-name="Record News HD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2205.ts
+#EXTINF:-1 tvg-ID="Record News" tvg-name="Record News" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2204.ts
+#EXTINF:-1 tvg-ID="Record News" tvg-name="Record News Alternativo HD" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1475.ts
+#EXTINF:-1 tvg-ID="Record News" tvg-name="Record News Alternativo" tvg-logo="http://printv.esy.es/server/Record%20News.png" group-title="Noticias",Record News Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1166.ts

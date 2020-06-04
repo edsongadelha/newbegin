@@ -1,0 +1,162 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://tinyurl.com/y78bj5rj" group-title="Filmes Séries",[B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ][/COLOR][COLOR yellow] PIKACHU [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
+
+
+#EXTINF:-1 tvg-ID="A&E" tvg-name="A&E H265" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Canais H265",A&E H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6578.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E FHD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades & Musicas",A&E FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1806.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E HD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades & Musicas",A&E HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2046.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades & Musicas",A&E
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2045.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E Alternativo HD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades & Musicas",A&E Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1307.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E Alternativo SD" tvg-logo="http://printv.esy.es/server/A%26E%20HD.png" group-title="Variedades & Musicas",A&E Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1175.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="Amc FHD" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="Filmes & Series",Amc FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1807.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC HD" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="Filmes & Series",AMC HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2048.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="Filmes & Series",AMC
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2047.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC Alternativo HD" tvg-logo="http://printv.esy.es/server/AMC%20HD.png" group-title="Filmes & Series",AMC Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1329.ts
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC Alternativo" tvg-logo="http://printv.esy.es/server/AMC.png" group-title="Filmes & Series",AMC Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1176.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN*" tvg-logo="" group-title="Portugal",AXN*
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1554.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN White  HD" tvg-logo="" group-title="Portugal",AXN White  HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN White" tvg-logo="" group-title="Portugal",AXN White
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1558.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN Black  HD" tvg-logo="" group-title="Portugal",AXN Black  HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1555.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN Black" tvg-logo="" group-title="Portugal",AXN Black
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1556.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN  HD*" tvg-logo="" group-title="Portugal",AXN  HD*
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1553.ts
+#EXTINF:-1 tvg-ID="Cinemax" tvg-name="Cinemax FHD" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes & Series",Cinemax FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1816.ts
+#EXTINF:-1 tvg-ID="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes & Series",Cinemax HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2074.ts
+#EXTINF:-1 tvg-ID="Cinemax" tvg-name="Cinemax" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes & Series",Cinemax
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2073.ts
+#EXTINF:-1 tvg-ID="Cinemax" tvg-name="Cinemax Alternativo" tvg-logo="http://printv.esy.es/server/Cinemax.png" group-title="Filmes & Series",Cinemax Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1185.ts
+#EXTINF:-1 tvg-ID="Canal Brasil" tvg-name="Canal Brasil H265" tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="Canais H265",Canal Brasil H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6582.ts
+#EXTINF:-1 tvg-ID="FX" tvg-name="Fx H265" tvg-logo="http://printv.esy.es/server/FX%20HD.png" group-title="Canais H265",Fx H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6597.ts
+#EXTINF:-1 tvg-ID="Fox" tvg-name="Fox HD LEG" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Filmes e Series (LEG)",Fox HD LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2337.ts
+#EXTINF:-1 tvg-ID="Fox" tvg-name="Fox LEG" tvg-logo="http://printv.esy.es/server/Fox.png" group-title="Filmes e Series (LEG)",Fox LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2338.ts
+#EXTINF:-1 tvg-ID="Fox Life" tvg-name="Fox Life FHD" tvg-logo="http://printv.esy.es/server/Fox%20Life%20HD.png" group-title="Filmes & Series",Fox Life FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1831.ts
+#EXTINF:-1 tvg-ID="Fox Life" tvg-name="Fox Life" tvg-logo="http://printv.esy.es/server/Fox%20Life.png" group-title="Filmes & Series",Fox Life
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2115.ts
+#EXTINF:-1 tvg-ID="Fox Life" tvg-name="Fox Life Alternativo" tvg-logo="http://printv.esy.es/server/Fox%20Life.png" group-title="Filmes & Series",Fox Life Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1134.ts
+#EXTINF:-1 tvg-ID="Fox Premium 1" tvg-name="Fox Premium 1 FHD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes & Series",Fox Premium 1 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1832.ts
+#EXTINF:-1 tvg-ID="FoxPremium2" tvg-name="Fox Premium 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Filmes & Series",Fox Premium 2 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2120.ts
+#EXTINF:-1 tvg-ID="Fox Premium 1" tvg-name="Fox Premium 1" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes & Series",Fox Premium 1
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2117.ts
+#EXTINF:-1 tvg-ID="Fox Premium 1" tvg-name="Fox Premium 1 HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes & Series",Fox Premium 1 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2118.ts
+#EXTINF:-1 tvg-ID="Fox Premium 1" tvg-name="Fox Premium 1 Alternativo HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%201.png" group-title="Filmes & Series",Fox Premium 1 Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1269.ts
+#EXTINF:-1 tvg-ID="FoxPremium2" tvg-name="Fox Premium 2 FHD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Filmes & Series",Fox Premium 2 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1833.ts
+#EXTINF:-1 tvg-ID="FoxPremium2" tvg-name="Fox Premium 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Filmes & Series",Fox Premium 2 Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1270.ts
+#EXTINF:-1 tvg-ID="FoxPremium2" tvg-name="Fox Premium 2" tvg-logo="http://printv.esy.es/server/Fox%20Premium%202.png" group-title="Filmes & Series",Fox Premium 2
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2119.ts
+#EXTINF:-1 tvg-ID="Max" tvg-name="Max Alternativo" tvg-logo="http://printv.esy.es/server/Max.png" group-title="Rede HBO & MAX",Max Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1202.ts
+#EXTINF:-1 tvg-ID="Max UP" tvg-name="MAX Up FHD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Rede HBO & MAX",MAX Up FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1847.ts
+#EXTINF:-1 tvg-ID="Max UP" tvg-name="Max UP HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Rede HBO & MAX",Max UP HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2162.ts
+#EXTINF:-1 tvg-ID="Max UP" tvg-name="Max UP" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Rede HBO & MAX",Max UP
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2161.ts
+#EXTINF:-1 tvg-ID="Max UP" tvg-name="Max UP Alternativo HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Rede HBO & MAX",Max UP Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1478.ts
+#EXTINF:-1 tvg-ID="Max UP" tvg-name="Max Up Alternativo" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Rede HBO & MAX",Max Up Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1149.ts
+#EXTINF:-1 tvg-ID="Max Prime" tvg-name="MAX Prime FHD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",MAX Prime FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1846.ts
+#EXTINF:-1 tvg-ID="Max Prime" tvg-name="Max Prime HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",Max Prime HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2160.ts
+#EXTINF:-1 tvg-ID="Max Prime" tvg-name="Max Prime" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",Max Prime
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2159.ts
+#EXTINF:-1 tvg-ID="Max Prime" tvg-name="Max Prime Alternativo HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",Max Prime Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1265.ts
+#EXTINF:-1 tvg-ID="Max Prime" tvg-name="Max Prime Alternativo" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",Max Prime Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1203.ts
+#EXTINF:-1 tvg-ID="Max UP" tvg-name="Max UP" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Rede HBO & MAX",Max UP
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2161.ts
+#EXTINF:-1 tvg-ID="Max UP" tvg-name="Max UP Alternativo HD" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Rede HBO & MAX",Max UP Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1478.ts
+#EXTINF:-1 tvg-ID="Max UP" tvg-name="Max Up Alternativo" tvg-logo="http://printv.esy.es/server/Max%20Up.png" group-title="Rede HBO & MAX",Max Up Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1149.ts
+#EXTINF:-1 tvg-ID="Max Prime" tvg-name="MAX Prime FHD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",MAX Prime FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1846.ts
+#EXTINF:-1 tvg-ID="Max Prime" tvg-name="Max Prime HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",Max Prime HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2160.ts
+#EXTINF:-1 tvg-ID="Max Prime" tvg-name="Max Prime" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",Max Prime
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2159.ts
+#EXTINF:-1 tvg-ID="Max Prime" tvg-name="Max Prime Alternativo HD" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",Max Prime Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1265.ts
+#EXTINF:-1 tvg-ID="Max Prime" tvg-name="Max Prime Alternativo" tvg-logo="http://printv.esy.es/server/Max%20Prime.png" group-title="Rede HBO & MAX",Max Prime Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1203.ts
+#EXTINF:-1 tvg-ID="Sony" tvg-name="Canal Sony H265" tvg-logo="http://printv.esy.es/server/Sony%20HD.png" group-title="Canais H265",Canal Sony H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6612.ts
+#EXTINF:-1 tvg-ID="Sony" tvg-name="Sony Channel HD LEG" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes e Series (LEG)",Sony Channel HD LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2369.ts
+#EXTINF:-1 tvg-ID="Sony" tvg-name="Sony Channel LEG" tvg-logo="http://printv.esy.es/server/Sony%20Channel.png" group-title="Filmes e Series (LEG)",Sony Channel LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2370.ts
+#EXTINF:-1 tvg-ID="Studio Universal" tvg-name="Studio Universal Alternativo" tvg-logo="http://printv.esy.es/server/Studio%20Universal.png" group-title="Globosat Filmes",Studio Universal Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1222.ts
+#EXTINF:-1 tvg-ID="Space" tvg-name="Space FHD" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Filmes & Series",Space FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1862.ts
+#EXTINF:-1 tvg-ID="Space" tvg-name="Space HD" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Filmes & Series",Space HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2217.ts
+#EXTINF:-1 tvg-ID="Space" tvg-name="Space" tvg-logo="http://printv.esy.es/server/Space.png" group-title="Filmes & Series",Space
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2216.ts
+#EXTINF:-1 tvg-ID="Space" tvg-name="Space Alternativo HD" tvg-logo="http://printv.esy.es/server/Space%20HD.png" group-title="Filmes & Series",Space Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1287.ts
+#EXTINF:-1 tvg-ID="Space" tvg-name="Space Alternativo" tvg-logo="http://printv.esy.es/server/Space.png" group-title="Filmes & Series",Space Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1220.ts
+#EXTINF:-1 tvg-ID="TNT Series" tvg-name="TNT Séries HD LEG" tvg-logo="http://printv.esy.es/server/TNT%20Séries%20HD.png" group-title="Filmes e Series (LEG)",TNT Séries HD LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2365.ts
+#EXTINF:-1 tvg-ID="TNT Series" tvg-name="TNT Séries LEG" tvg-logo="http://printv.esy.es/server/TNT%20Séries.png" group-title="Filmes e Series (LEG)",TNT Séries LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2366.ts
+#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT HD LEG" tvg-logo="http://printv.esy.es/server/TNT%20HD.png" group-title="Filmes e Series (LEG)",TNT HD LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2355.ts
+#EXTINF:-1 tvg-ID="TNT" tvg-name="TNT LEG" tvg-logo="http://printv.esy.es/server/TNT.png" group-title="Filmes e Series (LEG)",TNT LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2356.ts
+#EXTINF:-1 tvg-ID="Telecine Touch" tvg-name="Telecine Touch HD LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Filmes e Series (LEG)",Telecine Touch HD LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2353.ts
+#EXTINF:-1 tvg-ID="Telecine Touch" tvg-name="Telecine Touch LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Touch.png" group-title="Filmes e Series (LEG)",Telecine Touch LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2354.ts
+#EXTINF:-1 tvg-ID="Telecine Premium" tvg-name="Telecine Premium HD LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Filmes e Series (LEG)",Telecine Premium HD LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2351.ts
+#EXTINF:-1 tvg-ID="Telecine Premium" tvg-name="Telecine Premium LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Premium.png" group-title="Filmes e Series (LEG)",Telecine Premium LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2352.ts
+#EXTINF:-1 tvg-ID="Telecine Pipoca" tvg-name="Telecine Pipoca HD LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Filmes e Series (LEG)",Telecine Pipoca HD LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2349.ts
+#EXTINF:-1 tvg-ID="Telecine Pipoca" tvg-name="Telecine Pipoca LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Pipoca.png" group-title="Filmes e Series (LEG)",Telecine Pipoca LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2350.ts
+#EXTINF:-1 tvg-ID="Telecine Fun" tvg-name="Telecine Fun HD LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="Filmes e Series (LEG)",Telecine Fun HD LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2347.ts
+#EXTINF:-1 tvg-ID="Telecine Fun" tvg-name="Telecine Fun LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Fun.png" group-title="Filmes e Series (LEG)",Telecine Fun LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2348.ts
+#EXTINF:-1 tvg-ID="Telecine Action" tvg-name="Telecine Action HD LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Filmes e Series (LEG)",Telecine Action HD LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2345.ts
+#EXTINF:-1 tvg-ID="Telecine Action" tvg-name="TC Action LEG" tvg-logo="http://printv.esy.es/server/Telecine%20Action.png" group-title="Filmes e Series (LEG)",TC Action LEG
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2346.ts
+#EXTINF:-1 tvg-ID="Paramount" tvg-name="Paramount Channel H265" tvg-logo="http://printv.esy.es/server/Paramount%20Channel.png" group-title="Canais H265",Paramount Channel H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6566.ts

@@ -1,0 +1,318 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://tinyurl.com/y78bj5rj" group-title="Filmes Séries",[B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ][/COLOR][COLOR yellow] PIKACHU [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
+
+
+#EXTINF:-1 tvg-ID="SporTV" tvg-name="SporTV UHD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",SporTV UHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1916.ts
+#EXTINF:-1 tvg-ID="SporTV" tvg-name="SporTV FHD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",SporTV FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2035.ts
+#EXTINF:-1 tvg-ID="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",Sportv HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2038.ts
+#EXTINF:-1 tvg-ID="SporTV" tvg-name="Sportv" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",Sportv
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2218.ts
+#EXTINF:-1 tvg-ID="SporTV" tvg-name="Sportv Alternativo HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",Sportv Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1303.ts
+#EXTINF:-1 tvg-ID="SporTV" tvg-name="Sport TV Alternativo" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="Esportes",Sport TV Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1221.ts
+#EXTINF:-1 tvg-ID="SporTV 2" tvg-name="SporTV 2 FHD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",SporTV 2 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1917.ts
+#EXTINF:-1 tvg-ID="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",Sportv 2 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2036.ts
+#EXTINF:-1 tvg-ID="SporTV 2" tvg-name="Sportv 2" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",Sportv 2
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2219.ts
+#EXTINF:-1 tvg-ID="SporTV 2" tvg-name="SporTV 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",SporTV 2 Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1301.ts
+#EXTINF:-1 tvg-ID="SporTV 2" tvg-name="Sport TV 2 Alternativo" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="Esportes",Sport TV 2 Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1173.ts
+#EXTINF:-1 tvg-ID="SporTV 3" tvg-name="SporTV 3 FHD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes",SporTV 3 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1918.ts
+#EXTINF:-1 tvg-ID="SporTV 3" tvg-name="Sportv 3 HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes",Sportv 3 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2037.ts
+#EXTINF:-1 tvg-ID="SporTV 3" tvg-name="Sportv 3" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes",Sportv 3
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2220.ts
+#EXTINF:-1 tvg-ID="SporTV 3" tvg-name="Sportv 3 Alternativo  HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes",Sportv 3 Alternativo  HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1302.ts
+#EXTINF:-1 tvg-ID="SporTV 3" tvg-name="Sport TV 3 Alternativo" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="Esportes",Sport TV 3 Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1174.ts
+#EXTINF:-1 tvg-ID="FoxSports" tvg-name="Fox Sports FHD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",Fox Sports FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1887.ts
+#EXTINF:-1 tvg-ID="FoxSports" tvg-name="Fox Sports HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",Fox Sports HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2122.ts
+#EXTINF:-1 tvg-ID="FoxSports" tvg-name="Fox Sports" tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="Esportes",Fox Sports
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2121.ts
+#EXTINF:-1 tvg-ID="FoxSports" tvg-name="FOX Sports Alternativo HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="Esportes",FOX Sports Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1295.ts
+#EXTINF:-1 tvg-ID="FoxSports" tvg-name="Fox Sports Alternativo" tvg-logo="http://printv.esy.es/server/Fox%20Sports.png" group-title="Esportes",Fox Sports Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1136.ts
+#EXTINF:-1 tvg-ID="FoxSports 2" tvg-name="Fox Sports 2 FHD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1886.ts
+#EXTINF:-1 tvg-ID="FoxSports 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",Fox Sports 2 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2124.ts
+#EXTINF:-1 tvg-ID="FoxSports 2" tvg-name="Fox Sports 2" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202.png" group-title="Esportes",Fox Sports 2
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2123.ts
+#EXTINF:-1 tvg-ID="FoxSports 2" tvg-name="FOX Sports 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="Esportes",FOX Sports 2 Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sport 2 Alternativo SD" tvg-logo="" group-title="Esportes",Fox Sport 2 Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1135.ts
+#EXTINF:-1 tvg-ID="ESPN Brasil" tvg-name="Espn Brasil FHD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes",Espn Brasil FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1883.ts
+#EXTINF:-1 tvg-ID="ESPN Brasil" tvg-name="Espn Brasil HD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes",Espn Brasil HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2105.ts
+#EXTINF:-1 tvg-ID="ESPN Brasil" tvg-name="Espn Brasil" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png" group-title="Esportes",Espn Brasil
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2104.ts
+#EXTINF:-1 tvg-ID="ESPN Brasil" tvg-name="ESPN Brasil Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="Esportes",ESPN Brasil Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1294.ts
+#EXTINF:-1 tvg-ID="ESPN Brasil" tvg-name="ESPN Brasil Alternativo" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil.png" group-title="Esportes",ESPN Brasil Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1193.ts
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn FHD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes",Espn FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1884.ts
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes",Espn HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2108.ts
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="Espn" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes",Espn
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2101.ts
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes",ESPN Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1311.ts
+#EXTINF:-1 tvg-ID="ESPN" tvg-name="ESPN Alternativo" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="Esportes",ESPN Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1130.ts
+#EXTINF:-1 tvg-ID="ESPN 2" tvg-name="ESPN 2 FHD" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",ESPN 2 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1827.ts
+#EXTINF:-1 tvg-ID="ESPN 2" tvg-name="Espn 2 HD" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",Espn 2 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2103.ts
+#EXTINF:-1 tvg-ID="ESPN 2" tvg-name="Espn 2" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",Espn 2
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2102.ts
+#EXTINF:-1 tvg-ID="ESPN 2" tvg-name="ESPN 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",ESPN 2 Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1293.ts
+#EXTINF:-1 tvg-ID="ESPN 2" tvg-name="ESPN 2 Alternativo" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="Esportes",ESPN 2 Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1192.ts
+#EXTINF:-1 tvg-ID="ESPN Extra" tvg-name="ESPN Extra FHD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",ESPN Extra FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1828.ts
+#EXTINF:-1 tvg-ID="ESPN Extra" tvg-name="Espn Extra HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",Espn Extra HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2107.ts
+#EXTINF:-1 tvg-ID="ESPN Extra" tvg-name="Espn Extra" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",Espn Extra
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2106.ts
+#EXTINF:-1 tvg-ID="ESPN Extra" tvg-name="ESPN Extra Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="Esportes",ESPN Extra Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1310.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN Plus Alternativo HD" tvg-logo="http://printv.esy.es/server/ESPN%2B%20HD.png" group-title="Esportes",ESPN Plus Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1312.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN Plus Alternativo" tvg-logo="http://printv.esy.es/server/ESPN%2B.png" group-title="Esportes",ESPN Plus Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1131.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN-Brasileirao Serie C HD" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes",DAZN-Brasileirao Serie C HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2304.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN-Copa Sulamericana HD" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes",DAZN-Copa Sulamericana HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2303.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN HD" tvg-logo="http://printv.esy.es/server/DAZN.png" group-title="Esportes",DAZN HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1406.ts
+#EXTINF:-1 tvg-ID="Combate" tvg-name="Combate UHD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate UHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2333.ts
+#EXTINF:-1 tvg-ID="Combate" tvg-name="Combate FHD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1880.ts
+#EXTINF:-1 tvg-ID="Combate" tvg-name="Combate HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2076.ts
+#EXTINF:-1 tvg-ID="Combate" tvg-name="Combate" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2075.ts
+#EXTINF:-1 tvg-ID="Combate" tvg-name="Combate Alternativo HD" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1291.ts
+#EXTINF:-1 tvg-ID="Combate" tvg-name="Combate Alternativo" tvg-logo="http://printv.esy.es/server/Combate.png" group-title="Esportes",Combate Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1186.ts
+#EXTINF:-1 tvg-ID="BandSports" tvg-name="Band Sports FHD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1812.ts
+#EXTINF:-1 tvg-ID="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2060.ts
+#EXTINF:-1 tvg-ID="BandSports" tvg-name="Band Sports" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="Esportes",Band Sports
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2059.ts
+#EXTINF:-1 tvg-ID="BandSports" tvg-name="Band Sports Alternativo HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="Esportes",Band Sports Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1289.ts
+#EXTINF:-1 tvg-ID="BandSports" tvg-name="Band Sports Alternativo" tvg-logo="http://printv.esy.es/server/Band%20Sports.png" group-title="Esportes",Band Sports Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1180.ts
+#EXTINF:-1 tvg-ID="Premiere Clubes" tvg-name="Premiere Clubes UHD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes UHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2332.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere Clubes FHD" tvg-logo="" group-title="Premiere",Premiere Clubes FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1898.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere Clubes HD" tvg-logo="" group-title="Premiere",Premiere Clubes HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2199.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere Clubes" tvg-logo="" group-title="Premiere",Premiere Clubes
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2198.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere Clubes Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%20Clubes%20HD.png" group-title="Premiere",Premiere Clubes Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1277.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere Clubes Alternativo SD" tvg-logo="" group-title="Premiere",Premiere Clubes Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1163.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PFC" tvg-logo="http://printv.esy.es/server/PFC%20Interativo.png" group-title="Premiere",PFC
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1605.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 FHD" tvg-logo="" group-title="Premiere",Premiere 2 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1892.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 HD" tvg-logo="" group-title="Premiere",Premiere 2 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2187.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2" tvg-logo="" group-title="Premiere",Premiere 2
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2186.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%202.png" group-title="Premiere",Premiere 2 Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 2 Alternativo SD" tvg-logo="" group-title="Premiere",Premiere 2 Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 FHD" tvg-logo="" group-title="Premiere",Premiere 3 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1893.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 HD" tvg-logo="" group-title="Premiere",Premiere 3 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2189.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3" tvg-logo="" group-title="Premiere",Premiere 3
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2188.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%203.png" group-title="Premiere",Premiere 3 Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 3 Alternativo SD" tvg-logo="" group-title="Premiere",Premiere 3 Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1158.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 FHD" tvg-logo="" group-title="Premiere",Premiere 4 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1894.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 HD" tvg-logo="" group-title="Premiere",Premiere 4 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2191.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4" tvg-logo="" group-title="Premiere",Premiere 4
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2190.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%204.png" group-title="Premiere",Premiere 4 Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 4 Alternativo SD" tvg-logo="" group-title="Premiere",Premiere 4 Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 FHD" tvg-logo="" group-title="Premiere",Premiere 5 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 HD" tvg-logo="" group-title="Premiere",Premiere 5 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2193.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5" tvg-logo="" group-title="Premiere",Premiere 5
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2192.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 Alternativo HD" tvg-logo="http://printv.esy.es/server/Premiere%205.png" group-title="Premiere",Premiere 5 Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1276.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 5 Alternativo SD" tvg-logo="" group-title="Premiere",Premiere 5 Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1159.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6 FHD" tvg-logo="" group-title="Premiere",Premiere 6 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1896.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6 HD" tvg-logo="" group-title="Premiere",Premiere 6 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2195.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6" tvg-logo="" group-title="Premiere",Premiere 6
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2194.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 6 Alternativo SD" tvg-logo="" group-title="Premiere",Premiere 6 Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1160.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7 FHD" tvg-logo="" group-title="Premiere",Premiere 7 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1897.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7 Alternativo SD" tvg-logo="" group-title="Premiere",Premiere 7 Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1161.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7 HD" tvg-logo="" group-title="Premiere",Premiere 7 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 7" tvg-logo="" group-title="Premiere",Premiere 7
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2196.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Premiere 8 Alternativo SD" tvg-logo="" group-title="Premiere",Premiere 8 Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1162.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 1 FHD" tvg-logo="" group-title="Portugal",Eleven Sports 1 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 1 [FHD]" tvg-logo="" group-title="Portugal",Eleven Sports 1 [FHD]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2378.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 1 HD" tvg-logo="" group-title="Portugal",Eleven Sports 1 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 1 [HD]" tvg-logo="" group-title="Portugal",Eleven Sports 1 [HD]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 1" tvg-logo="" group-title="Portugal",Eleven Sports 1
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2373.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven SportsEleven Sports 1 [LOW]" tvg-logo="" group-title="Portugal",Eleven SportsEleven Sports 1 [LOW]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2372.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2 FHD" tvg-logo="" group-title="Portugal",Eleven Sports 2 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2385.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2 [FHD]" tvg-logo="" group-title="Portugal",Eleven Sports 2 [FHD]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2384.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2 HD" tvg-logo="" group-title="Portugal",Eleven Sports 2 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2382.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2[HD]" tvg-logo="" group-title="Portugal",Eleven Sports 2[HD]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2383.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2*" tvg-logo="" group-title="Portugal",Eleven Sports 2*
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2381.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 2 [LOW]" tvg-logo="" group-title="Portugal",Eleven Sports 2 [LOW]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2379.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3*" tvg-logo="" group-title="Portugal",Eleven Sports 3*
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2388.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3 FHD" tvg-logo="" group-title="Portugal",Eleven Sports 3 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2391.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3 [FHD]" tvg-logo="" group-title="Portugal",Eleven Sports 3 [FHD]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2392.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3 HD" tvg-logo="" group-title="Portugal",Eleven Sports 3 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2390.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3 [HD]" tvg-logo="" group-title="Portugal",Eleven Sports 3 [HD]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2389.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3" tvg-logo="" group-title="Portugal",Eleven Sports 3
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2387.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 3 [LOW]" tvg-logo="" group-title="Portugal",Eleven Sports 3 [LOW]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2386.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 4 FHD" tvg-logo="" group-title="Portugal",Eleven Sports 4 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2398.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 4 [FHD]" tvg-logo="" group-title="Portugal",Eleven Sports 4 [FHD]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2399.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 4 [HD]" tvg-logo="" group-title="Portugal",Eleven Sports 4 [HD]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2397.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 4 HD" tvg-logo="" group-title="Portugal",Eleven Sports 4 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2396.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 4" tvg-logo="" group-title="Portugal",Eleven Sports 4
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2395.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 4 [LOW]" tvg-logo="" group-title="Portugal",Eleven Sports 4 [LOW]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2393.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 5 FHD" tvg-logo="" group-title="Portugal",Eleven Sports 5 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2405.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 5 [HD]" tvg-logo="" group-title="Portugal",Eleven Sports 5 [HD]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2403.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 5*" tvg-logo="" group-title="Portugal",Eleven Sports 5*
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2404.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 5 [LOW]" tvg-logo="" group-title="Portugal",Eleven Sports 5 [LOW]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2400.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 6 FHD" tvg-logo="" group-title="Portugal",Eleven Sports 6 FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 6 [HD]" tvg-logo="" group-title="Portugal",Eleven Sports 6 [HD]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2410.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 6 HD" tvg-logo="" group-title="Portugal",Eleven Sports 6 HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2409.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 6*" tvg-logo="" group-title="Portugal",Eleven Sports 6*
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2408.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eleven Sports 6 [LOW]" tvg-logo="" group-title="Portugal",Eleven Sports 6 [LOW]
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2406.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SportTV 5" tvg-logo="" group-title="Portugal",SportTV 5
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SportTV 3" tvg-logo="" group-title="Portugal",SportTV 3
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SportTV 2" tvg-logo="" group-title="Portugal",SportTV 2
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1519.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sporting TV  HD" tvg-logo="" group-title="Portugal",Sporting TV  HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1532.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sporting TV" tvg-logo="" group-title="Portugal",Sporting TV
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1533.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 5 Full HD" tvg-logo="" group-title="Portugal",Sport TV 5 Full HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1526.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 5  HD" tvg-logo="" group-title="Portugal",Sport TV 5  HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 4 Full HD" tvg-logo="" group-title="Portugal",Sport TV 4 Full HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 4  HD" tvg-logo="" group-title="Portugal",Sport TV 4  HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1524.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 4" tvg-logo="" group-title="Portugal",Sport TV 4
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1525.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3 Full HD" tvg-logo="" group-title="Portugal",Sport TV 3 Full HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1520.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 3  HD" tvg-logo="" group-title="Portugal",Sport TV 3  HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1521.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 2 Full HD" tvg-logo="" group-title="Portugal",Sport TV 2 Full HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1517.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 2  HD" tvg-logo="" group-title="Portugal",Sport TV 2  HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1518.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1*" tvg-logo="" group-title="Portugal",Sport TV 1*
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1 Full HD" tvg-logo="" group-title="Portugal",Sport TV 1 Full HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1514.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV 1  HD" tvg-logo="" group-title="Portugal",Sport TV 1  HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport TV   HD" tvg-logo="" group-title="Portugal",Sport TV   HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1513.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Real Madrid TV" tvg-logo="" group-title="Portugal",Real Madrid TV
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1534.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Porto Canal HD" tvg-logo="" group-title="Portugal",Porto Canal HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1497.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="" group-title="Portugal",Eurosport 2
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1" tvg-logo="" group-title="Portugal",Eurosport 1
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1536.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport" tvg-logo="" group-title="Portugal",Eurosport
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1598.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A Bola Tv" tvg-logo="" group-title="Portugal",A Bola Tv
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1535.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kombat Sports" tvg-logo="" group-title="Portugal",Kombat Sports
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1539.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Motors TV" tvg-logo="" group-title="Portugal",Motors TV
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1542.ts

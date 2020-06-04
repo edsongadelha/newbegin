@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://tinyurl.com/y78bj5rj" group-title="Filmes Séries",[B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ][/COLOR][COLOR yellow] PIKACHU [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
+
+#EXTINF:-1 tvg-ID="BIS" tvg-name="Bis H265" tvg-logo="http://printv.esy.es/server/Bis.png" group-title="Canais H265",Bis H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6581.ts
+#EXTINF:-1 tvg-ID="Fox Life" tvg-name="Fox Life Alternativo" tvg-logo="http://printv.esy.es/server/Fox%20Life.png" group-title="Filmes & Series",Fox Life Alternativo
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1134.ts
+#EXTINF:-1 tvg-ID="GNT" tvg-name="GNT H265" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Canais H265",GNT H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6557.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GNT FHD" tvg-logo="" group-title="Variedades & Musicas",GNT FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1837.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GNT HD" tvg-logo="" group-title="Variedades & Musicas",GNT HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GNT" tvg-logo="" group-title="Variedades & Musicas",GNT
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GNT Alternativo HD" tvg-logo="http://printv.esy.es/server/GNT%20HD.png" group-title="Variedades & Musicas",GNT Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1296.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GNT Alternativo SD" tvg-logo="" group-title="Variedades & Musicas",GNT Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lifetime FHD" tvg-logo="" group-title="Variedades & Musicas",Lifetime FHD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1844.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lifetime HD" tvg-logo="" group-title="Variedades & Musicas",Lifetime HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lifetime" tvg-logo="" group-title="Variedades & Musicas",Lifetime
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/2153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Life Time Alternativo HD" tvg-logo="" group-title="Variedades & Musicas",Life Time Alternativo HD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Life Time Alternativo SD" tvg-logo="" group-title="Variedades & Musicas",Life Time Alternativo SD
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/1147.ts
+#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC H265" tvg-logo="http://printv.esy.es/server/TLC%20HD.png" group-title="Canais H265",TLC H265
+http://dns.xtreamsolution.tech:6212/live/20custodio/drink123/6614.ts
