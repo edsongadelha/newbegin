@@ -10,448 +10,377 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Globo SP | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/3
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]AMC | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/4
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TNT | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/6
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TNT Series | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/7
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO xTREME | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/8
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO POP | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/9
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Paramount | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/10
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Polishop[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/11
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Band | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/14
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Band | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/15
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Canal Brasil | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/16
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Canal Comunitario HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/17
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Canal Rural[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/18
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Canal Universitario HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/19
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Cultura | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/20
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Curta HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/21
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Globo SP | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/23
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Globo MG | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/24
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Globo Nordeste | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/25
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Globo BA | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/26
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Globo RJ | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/27
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Record TV | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/30
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Record TV | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/31
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Rede 21[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/32
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Rede TV | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/34
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Rede Vida | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/35
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]SBT | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/37
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Tv Aparecida[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/38
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Tv Brasil[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/39
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TV Câmara | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/40
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TV Escola | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/41
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TV Justiça | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/42
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Tv Novo Tempo[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/43
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TV Senado | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/44
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Globo Campinas | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/45
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Band Sports | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/46
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Band Sports | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/47
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Combate | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/48
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Combate | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/49
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]ESPN Extra | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/50
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]ESPN | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/51
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]ESPN | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/52
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]ESPN Brasil | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/53
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]ESPN Brasil | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/54
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]FoxSports | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/55
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]FoxSports | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/56
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]FoxSports 2 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/57
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]FoxSports2 | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/58
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]OFF | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/59
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]OFF | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/60
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Premiere Clubes | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/61
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Premiere Clubes | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/62
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Premiere 2 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/63
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Premiere 3 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/64
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Premiere 4 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/65
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Premiere 5 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/66
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Premiere 7 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/67
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Premiere 8 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/68
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]SporTV | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/69
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]SporTV | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/70
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]SporTV2 | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/71
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]SporTV 2 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/72
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]SBT | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/73
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]SporTV3 | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/74
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Rede TV | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/75
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Love Nature | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/76
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Bloomberg | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/77
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]CNN International | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/78
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]DW[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/79
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]NHK | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/80
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Record News | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/81
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]SIC International | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/82
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Tv 5 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/83
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Tve HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/84
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Globo News | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/85
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Band News | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/86
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 1 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/87
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 2 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/88
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 3 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/89
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 4 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/90
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 5 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/91
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 6 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/92
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 7 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/93
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 8 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/94
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 9 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/95
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 10 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/96
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Beinsport 11 HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/97
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]EuroChannel | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/98
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Animal Planet | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/99
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Animal Planet | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/100
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery Home & Health | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/101
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery Home & Health | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/102
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery Channel | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/103
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery Channel | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/104
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery Theater | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/105
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery Theater | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/106
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery Turbo | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/107
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery Turbo | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/108
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery World | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/109
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Fish Tv HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/110
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Food Network FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/111
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Food Network HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/112
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]FX | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/113
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]FX | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/114
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]History channel | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/115
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]History channel | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/116
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Investigacao Discovery  | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/117
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]NatGeo | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/118
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]NatGeo | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/119
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]NatGeoWild | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/120
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]NatGeo Wild | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/121
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery Science | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/122
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TLC | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/123
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HGTV HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/124
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Smithsonian | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/125
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Film & Arts | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/126
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Baby TV | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/127
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Boomerang | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/128
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Cartoon Network | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/129
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Disney Channel | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/130
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Disney Junior | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/131
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Disney XD | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/132
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Gloob | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/133
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Gloob | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/134
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]NatGeo Kids | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/135
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Nickelodeon | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/136
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TV Rá-tim-bum[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/137
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Zoomoo | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/138
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Discovery Kids | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/139
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]NickJr | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/140
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]BIS | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/141
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]MTV | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/142
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]MTV Live | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/143
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Multishow | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/144
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Music Box Brasil[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/145
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]VH1 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/146
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]VH1 MegaHits | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/147
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Arte1 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/148
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Comedy Central | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/149
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Comedy Central | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/150
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]GNT | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/151
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Mais Globo Sat | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/152
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Shoptime | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/153
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Canal Viva | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/154
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Woohoo | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/155
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]E! | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/156
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Fashion TV[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/157
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]A&E | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/158
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]AMC | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/159
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Canal Sony | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/160
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Canal Sony | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/161
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Fox | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/162
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Fox | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/163
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]FOX Life | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/164
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]FOX Life | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/165
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Fox Premium 1 | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/166
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Fox Premium 1 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/167
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Fox Premium 2 | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/168
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Fox Premium 2 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/169
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Lifetime | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/170
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Like HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/171
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Megapix | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/172
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Paramount | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/173
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Studio Universal | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/174
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]SYFY | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/175
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TBS | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/176
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TNT Series | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/177
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Universal TV l FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/178
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Universal TV l HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/179
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Warner Channel l FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/180
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Warner Channel l HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/181
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]AXN | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/182
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Megapix | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/183
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Cinemax | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/184
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/185
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/186
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO 2 | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/187
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO 2 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/188
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO Plus | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/189
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO Plus | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/190
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO Signature | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/191
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO Signature | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/192
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO Family | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/193
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO Family | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/194
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO Mundi | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/195
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO Mundi | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/196
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO xTREME | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/197
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]HBO POP | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/198
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Prime Box Brasil[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/199
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Space | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/200
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TCM | SD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/201
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TNT | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/202
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Cult | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/203
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Cult | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/204
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Fun | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/205
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Fun | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/206
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Pipoca | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/207
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Pipoca | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/208
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Premium | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/209
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Premium | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/210
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Touch | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/211
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Touch | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/212
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Action | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/213
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Telecine Action | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/214
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Playboy TV | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/215
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Sextreme | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/216
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Sexy Hot | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/217
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Venus | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/218
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Premiere 6 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/219
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Cinemax | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/220
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]AL jadeed[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/221
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TV Gazeta | FHD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/222
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]TV Gazeta | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/223
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Tooncast | SD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/224
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]H2 | HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/225
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]MTV Lebanon[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/6462
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]OTV Lebanon[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/6463
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]AL Mayadeen[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/6464
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]AL Manar[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/6465
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]LDC  lebanon[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/6466
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Al Jazeera EN[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR]
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/7980
-#EXTINF:-1 tvg-id="" tvg-name="PIKACHU " tvg-logo="https://i.imgur.com/wtIMrVz.png" group-title="",[B][COLOR yellow]Al Jazeera HD[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR] AR
-plugin://plugin.video.f4mTester/?name=[COLOR yellow][B]PIKACHU [P2P][COLOR lime] VIP[COLOR firebrick] PREMIUM[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/C44EAC260F01/C44EAC260F01/7981" group-title="Arrow",Arrow S03 E21
-http://dns.xtreamsolution.tech:6212/movie/01rcamargo/card123/2987.mp4
+#EXTINF:-1,Band Sports | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/46
+#EXTINF:-1,Band Sports | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/47
+#EXTINF:-1,Combate | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/48
+#EXTINF:-1,Combate | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/49
+#EXTINF:-1,ESPN Extra | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/50
+#EXTINF:-1,ESPN | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/51
+#EXTINF:-1,ESPN | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/52
+#EXTINF:-1,ESPN Brasil | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/53
+#EXTINF:-1,ESPN Brasil | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/54
+#EXTINF:-1,FoxSports | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/55
+#EXTINF:-1,FoxSports | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/56
+#EXTINF:-1,FoxSports 2 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/57
+#EXTINF:-1,FoxSports2 | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/58
+#EXTINF:-1,OFF | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/59
+#EXTINF:-1,OFF | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/60
+#EXTINF:-1,Premiere Clubes | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/61
+#EXTINF:-1,Premiere Clubes | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/62
+#EXTINF:-1,Premiere 2 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/63
+#EXTINF:-1,Premiere 3 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/64
+#EXTINF:-1,Premiere 4 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/65
+#EXTINF:-1,Premiere 5 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/66
+#EXTINF:-1,Premiere 7 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/67
+#EXTINF:-1,Premiere 8 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/68
+#EXTINF:-1,SporTV | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/69
+#EXTINF:-1,SporTV | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/70
+#EXTINF:-1,SporTV2 | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/71
+#EXTINF:-1,SporTV 2 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/72
+#EXTINF:-1,SBT | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/73
+#EXTINF:-1,SporTV3 | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/74
+#EXTINF:-1,Rede TV | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/75
+#EXTINF:-1,Love Nature | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/76
+#EXTINF:-1,Bloomberg | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/77
+#EXTINF:-1,CNN International | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/78
+#EXTINF:-1,DW
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/79
+#EXTINF:-1,NHK | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/80
+#EXTINF:-1,Record News | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/81
+#EXTINF:-1,SIC International | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/82
+#EXTINF:-1,Tv 5 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/83
+#EXTINF:-1,Tve HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/84
+#EXTINF:-1,Globo News | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/85
+#EXTINF:-1,Band News | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/86
+#EXTINF:-1,Beinsport 1 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/87
+#EXTINF:-1,Beinsport 2 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/88
+#EXTINF:-1,Beinsport 3 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/89
+#EXTINF:-1,Beinsport 4 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/90
+#EXTINF:-1,Beinsport 5 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/91
+#EXTINF:-1,Beinsport 6 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/92
+#EXTINF:-1,Beinsport 7 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/93
+#EXTINF:-1,Beinsport 8 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/94
+#EXTINF:-1,Beinsport 9 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/95
+#EXTINF:-1,Beinsport 10 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/96
+#EXTINF:-1,Beinsport 11 HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/97
+#EXTINF:-1,EuroChannel | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/98
+#EXTINF:-1,Animal Planet | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/99
+#EXTINF:-1,Animal Planet | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/100
+#EXTINF:-1,Discovery Home & Health | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/101
+#EXTINF:-1,Discovery Home & Health | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/102
+#EXTINF:-1,Discovery Channel | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/103
+#EXTINF:-1,Discovery Channel | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/104
+#EXTINF:-1,Discovery Theater | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/105
+#EXTINF:-1,Discovery Theater | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/106
+#EXTINF:-1,Discovery Turbo | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/107
+#EXTINF:-1,Discovery Turbo | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/108
+#EXTINF:-1,Discovery World | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/109
+#EXTINF:-1,Fish Tv HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/110
+#EXTINF:-1,Food Network FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/111
+#EXTINF:-1,Food Network HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/112
+#EXTINF:-1,FX | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/113
+#EXTINF:-1,FX | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/114
+#EXTINF:-1,History channel | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/115
+#EXTINF:-1,History channel | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/116
+#EXTINF:-1,Investigacao Discovery  | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/117
+#EXTINF:-1,NatGeo | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/118
+#EXTINF:-1,NatGeo | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/119
+#EXTINF:-1,NatGeoWild | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/120
+#EXTINF:-1,NatGeo Wild | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/121
+#EXTINF:-1,Discovery Science | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/122
+#EXTINF:-1,TLC | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/123
+#EXTINF:-1,HGTV HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/124
+#EXTINF:-1,Smithsonian | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/125
+#EXTINF:-1,Film & Arts | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/126
+#EXTINF:-1,Baby TV | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/127
+#EXTINF:-1,Boomerang | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/128
+#EXTINF:-1,Cartoon Network | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/129
+#EXTINF:-1,Disney Channel | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/130
+#EXTINF:-1,Disney Junior | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/131
+#EXTINF:-1,Disney XD | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/132
+#EXTINF:-1,Gloob | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/133
+#EXTINF:-1,Gloob | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/134
+#EXTINF:-1,NatGeo Kids | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/135
+#EXTINF:-1,Nickelodeon | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/136
+#EXTINF:-1,TV Rá-tim-bum
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/137
+#EXTINF:-1,Zoomoo | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/138
+#EXTINF:-1,Discovery Kids | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/139
+#EXTINF:-1,NickJr | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/140
+#EXTINF:-1,BIS | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/141
+#EXTINF:-1,MTV | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/142
+#EXTINF:-1,MTV Live | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/143
+#EXTINF:-1,Multishow | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/144
+#EXTINF:-1,Music Box Brasil
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/145
+#EXTINF:-1,VH1 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/146
+#EXTINF:-1,VH1 MegaHits | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/147
+#EXTINF:-1,Arte1 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/148
+#EXTINF:-1,Comedy Central | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/149
+#EXTINF:-1,Comedy Central | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/150
+#EXTINF:-1,GNT | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/151
+#EXTINF:-1,Mais Globo Sat | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/152
+#EXTINF:-1,Shoptime | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/153
+#EXTINF:-1,Canal Viva | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/154
+#EXTINF:-1,Woohoo | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/155
+#EXTINF:-1,E! | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/156
+#EXTINF:-1,Fashion TV
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/157
+#EXTINF:-1,A&E | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/158
+#EXTINF:-1,AMC | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/159
+#EXTINF:-1,Canal Sony | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/160
+#EXTINF:-1,Canal Sony | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/161
+#EXTINF:-1,Fox | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/162
+#EXTINF:-1,Fox | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/163
+#EXTINF:-1,FOX Life | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/164
+#EXTINF:-1,FOX Life | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/165
+#EXTINF:-1,Fox Premium 1 | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/166
+#EXTINF:-1,Fox Premium 1 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/167
+#EXTINF:-1,Fox Premium 2 | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/168
+#EXTINF:-1,Fox Premium 2 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/169
+#EXTINF:-1,Lifetime | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/170
+#EXTINF:-1,Like HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/171
+#EXTINF:-1,Megapix | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/172
+#EXTINF:-1,Paramount | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/173
+#EXTINF:-1,Studio Universal | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/174
+#EXTINF:-1,SYFY | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/175
+#EXTINF:-1,TBS | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/176
+#EXTINF:-1,TNT Series | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/177
+#EXTINF:-1,Universal TV l FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/178
+#EXTINF:-1,Universal TV l HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/179
+#EXTINF:-1,Warner Channel l FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/180
+#EXTINF:-1,Warner Channel l HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/181
+#EXTINF:-1,AXN | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/182
+#EXTINF:-1,Megapix | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/183
+#EXTINF:-1,Cinemax | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/184
+#EXTINF:-1,HBO | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/185
+#EXTINF:-1,HBO | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/186
+#EXTINF:-1,HBO 2 | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/187
+#EXTINF:-1,HBO 2 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/188
+#EXTINF:-1,HBO Plus | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/189
+#EXTINF:-1,HBO Plus | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/190
+#EXTINF:-1,HBO Signature | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/191
+#EXTINF:-1,HBO Signature | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/192
+#EXTINF:-1,HBO Family | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/193
+#EXTINF:-1,HBO Family | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/194
+#EXTINF:-1,HBO Mundi | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/195
+#EXTINF:-1,HBO Mundi | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/196
+#EXTINF:-1,HBO xTREME | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/197
+#EXTINF:-1,HBO POP | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/198
+#EXTINF:-1,Prime Box Brasil
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/199
+#EXTINF:-1,Space | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/200
+#EXTINF:-1,TCM | SD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/201
+#EXTINF:-1,TNT | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/202
+#EXTINF:-1,Telecine Cult | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/203
+#EXTINF:-1,Telecine Cult | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/204
+#EXTINF:-1,Telecine Fun | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/205
+#EXTINF:-1,Telecine Fun | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/206
+#EXTINF:-1,Telecine Pipoca | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/207
+#EXTINF:-1,Telecine Pipoca | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/208
+#EXTINF:-1,Telecine Premium | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/209
+#EXTINF:-1,Telecine Premium | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/210
+#EXTINF:-1,Telecine Touch | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/211
+#EXTINF:-1,Telecine Touch | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/212
+#EXTINF:-1,Telecine Action | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/213
+#EXTINF:-1,Telecine Action | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/214
+#EXTINF:-1,Playboy TV | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/215
+#EXTINF:-1,Sextreme | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/216
+#EXTINF:-1,Sexy Hot | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/217
+#EXTINF:-1,Venus | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/218
+#EXTINF:-1,Premiere 6 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/219
+#EXTINF:-1,Cinemax | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/220
+#EXTINF:-1,AL jadeed
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/221
+#EXTINF:-1,TV Gazeta | FHD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/222
+#EXTINF:-1,TV Gazeta | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/223
+#EXTINF:-1,Tooncast | SD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/224
+#EXTINF:-1,H2 | HD
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/225
+#EXTINF:-1,MTV Lebanon
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/6462
+#EXTINF:-1,OTV Lebanon
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/6463
+#EXTINF:-1,AL Mayadeen 
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/6464
+#EXTINF:-1,AL Manar
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/6465
+#EXTINF:-1,LDC  lebanon
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/6466
+#EXTINF:-1,Al Jazeera EN
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/7980
+#EXTINF:-1,Al Jazeera HD AR
+http://viptv2.dyndns.tv:25461/C44EAC260F25/C44EAC260F25/7981
