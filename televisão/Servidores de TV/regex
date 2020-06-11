@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+<item>
 import urllib
 import urllib2
 import re
@@ -59,4 +60,5 @@ def menu_entrada():
         xbmc.executebuiltin('ShowPicture('+lurl6+')')
     if link2 == 7:
         SKindex()
+        </item>
         
