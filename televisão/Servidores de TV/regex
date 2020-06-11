@@ -1,64 +1,23 @@
-# -*- coding: utf-8 -*-
-<item>
-import urllib
-import urllib2
-import re
-import os
-import xbmcplugin
-import xbmcgui
-import xbmcaddon
-import xbmcvfs
-import traceback
-import cookielib,base64
-import shutil
-from BeautifulSoup import BeautifulStoneSoup, BeautifulSoup, BeautifulSOAP
-viewmode=None
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/JfvcNWz.png" group-title="Filmes Séries",[I][B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR][/I]
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<layouttype>thumbnail</layouttype>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/XXDQC6W.png" group-title="Filmes Séries",[I][B][COLOR yellow] Video De Intrução Para Torrents [COLOR lime][[COLOR blue] Click Aqui [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+https://www.gadrive.com/d/FYVRi&type=1
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/71breqg.png" group-title="Filmes Séries",[I][B][COLOR yellow] Channel Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
+<externallink>https://canaisgratis.eu/</externallink>
+ 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
+https://canaisgratis.eu/
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
+https://redecanais.bz/browse-filmes-lancamentos-videos-1-date.html
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
+https://redecanais.bz/browse-filmes-lancamentos-videos-1-date.html
 
-def web_gateway(urlcn):
-        import webbrowser
-        if xbmc . getCondVisibility ( 'system.platform.android' ) :
-                ost = xbmc . executebuiltin ( 'StartAndroidActivity(,android.intent.action.VIEW,,%s)' % ( ''+urlcn+'' ) )
-        else:
-                ost = webbrowser . open ( ''+urlcn+'' )
-                
-def menu_entrada():
-    dialog2 = xbmcgui.Dialog()
-    link2 = dialog2.select('[B][I][COLOR yellow][B]PIKACHU [COLOR lime] ENTRETENIMENTOS SEJAM [COLOR white] BEM-VINDOS !!![/B][/I][/COLOR]',['[B][I][COLOR white]PIKACHU HOME PAGE[/B][/I][/COLOR]','[B][I][COLOR yellow]GRUPO TELEGRAM[/B][/I][/COLOR]','[B][I][COLOR peru]CANAL TELEGRAM[/B][/I][/COLOR]','[B][I][COLOR lime]CLICK DOAÇÃO[/B][/I][/COLOR]','[B][I][COLOR gold]CANAL VIKINGS[/B][/I][/COLOR]','[B][I][COLOR blue]REDE[/B][/I][/COLOR][B][I][COLOR white]CANAIS [COLOR lime]TV[/B][/I][/COLOR]','[B][I][COLOR blue]REDE[/B][/I][/COLOR][B][I][COLOR white]CANAIS [COLOR yellow]FILMES[/B][/I][/COLOR]','[B][I][COLOR blue]REDE[/B][/I][/COLOR][B][I][COLOR white]CANAIS [COLOR peru]SÉRIES[/B][/I][/COLOR]','[B][I][COLOR yellow]ENTRAR NO ADDON[/B][/I][/COLOR]'])
 
-    if link2 == 0:
-        lurl1 = "https://bit.ly/pikachufull"
-        web_gateway(lurl1)
-        
-    if link2 == 1:
-        lurl2 = "https://tinyurl.com/grupopikachu"
-        web_gateway(lurl2)
-
-    if link2 == 2:
-        lurl3 = "https://t.me/addonpikachu"
-        web_gateway(lurl3)
-        
-    if link2 == 3:
-        lurl4 = "https://linktr.ee/addonpikachu"
-        web_gateway(lurl4)
-
-    if link2 == 4:
-        lurl5 = "https://www.youtube.com/channel/UCXxnoSG1NkyUMALvGAccutw"
-        web_gateway(lurl5)
-        
-  <name.  if link2 == 5:</name>
-       <link> lurl6 = "https://canaisgratis.eu/"
-        web_gateway(lurl5)</link>
-        
-    if link2 == 6:
-        lurl7 = "https://redecanais.bz/browse-filmes-lancamentos-videos-1-date.html"
-        web_gateway(lurl5)
-        
-    if link2 == 7:
-        lurl8 = "https://redecanais.bz/browse-filmes-lancamentos-videos-1-date.html"
-        web_gateway(lurl5)
-
-        xbmc.executebuiltin('ShowPicture('+lurl6+')')
-    if link2 == 7:
-        SKindex()
-        </item>
         
