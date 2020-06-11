@@ -45,9 +45,9 @@ def menu_entrada():
         lurl5 = "https://www.youtube.com/channel/UCXxnoSG1NkyUMALvGAccutw"
         web_gateway(lurl5)
         
-    if link2 == 5:
-        lurl6 = "https://canaisgratis.eu/"
-        web_gateway(lurl5)
+  <name.  if link2 == 5:</name>
+       <link> lurl6 = "https://canaisgratis.eu/"
+        web_gateway(lurl5)</link>
         
     if link2 == 6:
         lurl7 = "https://redecanais.bz/browse-filmes-lancamentos-videos-1-date.html"
