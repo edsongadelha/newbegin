@@ -1,23 +1,41 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/JfvcNWz.png" group-title="Filmes Séries",[I][B][COLOR yellow]PIKACHU 100% GRATUITO:[/COLOR][COLOR lime] [ P2P ] [COLOR firebrick] VIP PREMIUM[/B][/COLOR][/I]
-plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=TSDOWNLOADER&amp;url=http://letmein.fun:8080/s
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-plugin://plugin.video.f4mTester/?name=PIKACHU TV&streamtype=HLSRETRY&amp;url=http://orbit-iptv.com:2500/live
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-<layouttype>thumbnail</layouttype>
+﻿﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/XXDQC6W.png" group-title="Filmes Séries",[I][B][COLOR yellow] Video De Intrução Para Torrents [COLOR lime][[COLOR blue] Click Aqui [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
-https://www.gadrive.com/d/FYVRi&type=1
+<channels>
+    <channels_info>
+      <title>[COLOR yellow][B]PIKACHU  ENTRETERIMENTOS[/B][/COLOR]</title>
+    <genre>[B][COLOR blue]Grupo Telegram:[/B][/COLOR][COLOR white][ https://bit.ly/36ZCISR ][/COLOR][COLOR yellow] | [COLOR blue][B]channel Telegram:[/B][/COLOR][COLOR white][ https://bit.ly/3eV4FhN ][/COLOR][COLOR lime][B] visite-nos No Telegram !!![/B][/COLOR]</genre>
+      <description>[COLOR green][B]ENTRETERIMENTO[/B][/COLOR]</description>
+      <thumbnail>https://i.imgur.com/te6jJ7s.png</thumbnail>
+<fanart>https://i.imgur.com/pziFK6W.png</fanart>
+      <date>06.JULHO.2019</date>
+      <credits>A TODOS QUE ME AJUDARAM</credits>
+    </channels_info>
+<channels>
  
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/71breqg.png" group-title="Filmes Séries",[I][B][COLOR yellow] Channel Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR yellow] Pikachu !!![/B][/COLOR][/I]
-<externallink>https://canaisgratis.eu/</externallink>
- 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
-https://canaisgratis.eu/
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
-https://redecanais.bz/browse-filmes-lancamentos-videos-1-date.html
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="PIKACHU" tvg-logo="https://i.imgur.com/HuRqkYE.png" group-title="Filmes Séries",[I][B][COLOR yellow] Group Telegram [COLOR lime][[COLOR blue] https://t.me/addonpikachu [COLOR blue][COLOR lime]] [COLOR lime] Pikachu !!![/B][/COLOR][/I]
-https://redecanais.bz/browse-filmes-lancamentos-videos-1-date.html
+<channel>
+     <name>[B][I][COLOR=green]<<  [/COLOR][COLOR=yellow]PIKACHU  ENTRETENIMENTOS:  [COLOR aquamarine]bit.ly/linkfull[/COLOR][COLOR=green]  >>[/COLOR][/I][/B]</name>
+<genre>[B][COLOR blue]Grupo Telegram:[/B][/COLOR][COLOR white][ https://bit.ly/36ZCISR ][/COLOR][COLOR yellow] | [COLOR blue][B]channel Telegram:[/B][/COLOR][COLOR white][ https://bit.ly/3eV4FhN ][/COLOR][COLOR lime][B] visite-nos No Telegram !!![/B][/COLOR]</genre>
+  <thumbnail>https://i.imgur.com/JfvcNWz.png</thumbnail>
+<fanart>https://i.imgur.com/bTNL2Yy.png</fanart>
+<link>http://ignoreme</link>
+<info>[I][COLOR yellow]Pikachu Entretenimentos: levando o melhor ate voce !!! [COLOR white](MrPikachu)...Faca sua Doacao...[COLOR lime][ http://bit.ly/doarpikachu ] !!![/COLOR][/I]</info>
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channel>
+      <name>[B][I][COLOR white]• [COLOR lime]* [COLOR white]- [COLOR yellow] POR CATEGORIAS [COLOR blue](P2p) [COLOR lime] Pikachu Vip [COLOR white] Premium [/I][/B][/COLOR]</name>
+  <thumbnail>https://i.imgur.com/dBNyDpI.png</thumbnail>https://tinyurl.com/y78bj5rj
+<fanart>https://i.imgur.com/bTNL2Yy.png</fanart>
+<genre>[COLOR lime](100% Gratuito).[COLOR white]  Ótima Escolha !!! [/COLOR]</genre>  
+<link>http://ignoreme[/B]</link>
+<info>[I][COLOR yellow]Pikachu Entretenimentos: levando o melhor ate voce !!! [COLOR white](MrPikachu)...Faca sua Doacao...[COLOR lime][ http://bit.ly/doarpikachu ] !!![/COLOR][/I]</info>
+   <externallink>https://redecanais.bz/browse-filmes-lancamentos-videos-1-date.html</externallink>
+</channel>
+  </channels>
+
+
 
 
         
